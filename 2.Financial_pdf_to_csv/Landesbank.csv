@@ -1,0 +1,3616 @@
+Bank Name,Financial Text,Financial Term
+Landesbank,"19 
+5 Discl osure of own funds (Article 437  CRR and EBA/GL/2018/01)  ",funds
+Landesbank,"37 
+9 Disclosure o f exposures to credit risk and dilution risk and of credit quality (Article 442 CRR)  ",credit
+Landesbank,"46 
+10 Disclosure of the use of credit risk mitigation techniques (Article 453 a -f CRR)  ",credit
+Landesbank,"65 
+12 Disclosure of the use of the IRB approach to credit risk  (A rticles 438, 452, 453 g -j CRR)  ",credit
+Landesbank,"68 
+13 Disclosure of specialized lending and equity exposure under the simple risk weight approach  
+(Article 438 e CRR)  ",equity
+Landesbank,"83 
+14 Disclosure of exposures to counterparty credit risk (Article 438 h, 439 CRR)  ",credit
+Landesbank,"111 
+19 Disclosure of exposures to interest rate risk on positions not held in the trading book 
+(Article 448 CRR)  ",interest
+Landesbank,"117 
+21 Regulatory disclosure of ESG risks (Article  449 a CRR)  ",regulatory
+Landesbank,"Part of the regulatory disclosure of ESG risks in accordance with Article 449a CRR was completed for the first time as at 
+31 December 2022",regulatory
+Landesbank,"There will be slight increases in regulatory equity due to earnings retention and in the total 
+risk expos ure amount due to the changes to operational risks compared with the 2022 annual report, with a 
+corresponding impact on the related ratios",equity
+Landesbank,"As at 31 December 2022 , the regulatory scope of consolidation in the disclosure report includes Berlin Hyp AG (“Berlin 
+Hyp”), which was acquired in the 2022 financial year",regulatory
+Landesbank,"The section on t he disclosure of own funds pursuant to Article 437 CRR 
+also continues to be supplemented by GL 2018/01 (Comparison of own funds and capital and leverage ratio applying 
+and not applying transitional provisions for IFRS  9 in conjunction with Article 473a CRR  II)",funds
+Landesbank,"The obligation to disclose tables EU INS1 and EU INS2 does not apply to LBBW, as LBBW has no equity holdings in 
+insurance undertakings and is not a financial conglomerate",equity
+Landesbank,"There will be slight increases 
+in regulatory equity due to earnings retention and in the total risk exposure amount due to the changes to operational 
+risks compared with the 2022 annual report, with a corresponding impact on the related ratios",equity
+Landesbank,"Thanks to an increase in own funds as against the previous quarter  and despite higher risk -weighted exposure amounts, 
+the Common Equity Tier  1 ratio rose by 0",funds
+Landesbank,"1 Composition of regulatory own funds (Article 437a, d – f CRR) ",funds
+Landesbank,"Disclosure report 2022   
+5 
+ 
+      
+EUR million  31/12/2022  30/09/2022  30/06/2022  31/03/2022  31/12/2021  
+Available own funds (amounts)  
+Common Equity Tier 1 (CET1) capital  13,708  12,511  12,644  12,581  12,473  
+Tier 1 capital  14,452  13,255  13,387  13,325  13,456  
+Total capital  18,934 17,770  17,966  17,974  18,090  
+Risk-weighted exposure amounts  
+Total risk -weighted exposure amount  93,645  89,296  91,154  89,096  84,416  
+Capital ratios (as a percentage of risk -weighted exposure amount)  
+Common Equity Tier  1 ratio (%)  14",funds
+Landesbank,"4 
+Additional own funds requirements to address risks other than the risk of excessive leverage (as a percentage of risk -weighted exposure amount)  
+Additional ow n funds requirements to address risks other than the risk of excessive 
+leverage (%)  1",funds
+Landesbank,"31 
+Total SREP own funds requirements (%)  9",funds
+Landesbank,"03  
+CET1 available after meeting the total SREP own funds req uirements (%)  8",funds
+Landesbank,"1 
+Additional own funds requirements to address the risk of excessive leverage (as a percentage of total exposure measure)  
+Additional own funds requirements to address the risk of excessive leverage (%)       
+of which: to be made up of CET1 capital (percentage points)       
+Total SREP leverage ratio requirements (%)  3",funds
+Landesbank,"2 Overview of risk -weighted exposure amounts  
+(Article 438 d CRR)  
+LBBW uses the internal ratings -based approach (foundation I RB approach) approved by the Federal Financial 
+Supervisory Authority (BaFin) for calculating the own funds requirements for counterparty risks arising from the main 
+exposure classes",funds
+Landesbank,Equity exposures are reported exclusively under the IRB approach,equity
+Landesbank,Significant investments in financial sector entities must be risk -weighted at 250%,investment
+Landesbank,The own funds requirements for securitization transactions take place in accordance with the securitization regulations,funds
+Landesbank,"The own funds requirements for market price risks for the general interest rate risk, general share price risk and 
+associated option price risks of LBBW (Bank) are calculated based on an interna l market price risk model also approved 
+by the regulatory authority",interest
+Landesbank,This also includes the own funds requirements for the stressed VaR,funds
+Landesbank,Own funds requirements for operational ri sks are calculated using the standardized approach,funds
+Landesbank,"The following table sets out the total risk exposure amounts and own funds requirements for risk types that are relevant 
+from a prudential point of view",funds
+Landesbank,"Significant investments in financial sector entit ies to which a 250% risk weight must be applied along with deferred taxes 
+resulting from temporary differences are reported in the line “Amounts below the thresholds for deductions”",investment
+Landesbank,"A breakdown by exposure class is provided as follows:  
+• Disclosure of the u se of the standardized approach, section 11  
+• Disclosure of the use of the IRB approach to credit risk, section 12  
+• Disclosure of exposures to counterparty credit risk, section 14  
+ 
+ Disclosure report 2022   
+7 
+    
+ Total risk exposure amounts (TREA)  Total own funds 
+requirements  
+EUR m illion  31/12/2022  30/09/2022  31/12/2022  
+Credit risk (excluding CCR)  74,012  68,313  5,921  
+Of which the standardized approach  11,551  11,353  924 
+Of which the foundation IRB (FIRB) approach  59,810  54,022  4,785  
+Of which: slotting approach  195 198 16 
+Of whic h: equities under the simple risk -weighted approach  1,459  1,493  117 
+Of which the advanced IRB (AIRB) approach     
+Counterparty credit risk - CCR  4,998  6,488  400 
+Of which the standardized approach  2,424  3,263  194 
+Of which internal model method (IMM)     
+Of which exposures to a CCP  90 88 7 
+Of which credit valuation adjustment - CVA 1,311  1,272  105 
+Of which other CCR  1,173  1,866  94 
+Settlement risk  3 3 0 
+Securitization exposures in the non -trading book (after the cap)  2,453  1,668  196 
+Of which SEC -IRBA a pproach  797 211 64 
+Of which SEC -ERBA (including IAA)  924 871 74 
+Of which SEC -SA approach  116 130 9 
+Of which 1250%/ deduction  617 456 49 
+Position, foreign exchange and commodities risks (Market risk)  6,424  8,080  514 
+Of which the standardized approach  3,214 3,776  257 
+Of which IMA  3,210  4,304  257 
+Large exposures     
+Operational risk  6,372  5,199  510 
+Of which basic indicator approach     
+Of which the standardized approach  6,372  5,199  510 
+Of which advanced measurement approach     
+Amounts below the thres holds for deduction (subject to 250% risk weight - for 
+informative purposes)  2,393  2,702  191 
+Total  94,262  89,752  7,541  
+    
+Figure 2: EU OV1 – Overview of risk -weighted exposure amounts  
+The total risk exposure amount increased  on the previous quarter, as figures for Berlin Hyp were taken into account for 
+the first time",funds
+Landesbank,"This is chiefly reflected in the increase in the credit risk in the receivables measured in accordance with the foundation 
+IRB approach",credit
+Landesbank,Counterparty credit risk developed similarly,credit
+Landesbank,"This also applies to risks from 
+LBBW pension funds to which the bank has outsourced most of its direct defined benefit obligations",funds
+Landesbank,"LBBW assigns 
+companies whose risks are regarded as immaterial in investment risk",investment
+Landesbank,Further information on ESG risks can be found in section 21 Regulatory disclosure of ESG risks (Article 449a CRR) ,regulatory
+Landesbank,"The following material risk types were identified:  
+Financial risks  
+• Counterparty default risks  
+• Market price risks  
+• Liquidity risks  
+• Real estate risks  
+• Development risks  
+• Investment risks  
+ 
+Non-financial risks  
+• Operational risks  
+• Reputation risks  
+• Business risks  
+• Model risks  
+• Tax compliance risks  
+ 
+ 
+ Disclosure report 2022   
+9 
+LBBW defines “financial risks” as risks that are taken delibera tely ex ante and that can be priced to generate income",investment
+Landesbank,"In terms of capital, the quantitative part of risk appetite sets out concrete specifications in the form of thresholds for 
+LBBW’s material economic and regulatory steering parameters – specifications are set out for times of normal business 
+operations as well as under stress conditions",regulatory
+Landesbank,"It is the LBBW Group’s intention to act in the best and 
+long-term interest of its customers and stakeholders",interest
+Landesbank,"Capital adequacy that is suitable in the long term  
+Annual medium -term planning comprises the economic and regulatory considerations, brings these together and acts as 
+a link between the strategic framework and integrated bank management throughout the year",regulatory
+Landesbank,"In addition, compliance with the internal targets and thus with minimum regulatory requirements is also ensured in the 
+case of adverse economic developments",regulatory
+Landesbank,"Economic considerations complement regulatory considerations  
+To ensure adequate capitalization from an economic point o f view, in addition to the regulatory capital view a Group -wide 
+compilation of risks across all material risk types and subsidiaries (economic capital), and the comparison of these with 
+the capital calculated from an economic perspective (aggregate risk co ver)",regulatory
+Landesbank,"At LBBW, aggregate risk cover (corresponds to risk coverage potential as per MaRisk) denotes t he equity restricted 
+according to economic criteria which is available to cover unexpected losses",loss
+Landesbank,"In addition to equity (as per IFRS including 
+valuation reserves), the realized income statement gains/losses in accordance with IFRS are considered component s of 
+aggregate risk cover",loss
+Landesbank,Conservative deductible items are also included due to regulatory requirements,regulatory
+Landesbank,"In contrast to the equity stipulated 
+by regulatory bodies, it is quantified as value at risk (VaR) at a confidence level of 99",equity
+Landesbank,"9% and a one -year holding period 
+for counterparty, market price, rea l estate, development, investment and operational risks",investment
+Landesbank,"By contrast, the liquidity risks (within the meani ng of the risk of not meeting payment obligations) are managed and 
+limited in accordance with the quantitative and procedural rules defined in the liquidity risk tolerance for regulatory and 
+economic considerations",regulatory
+Landesbank,"The scenarios are arranged in such a way that they take into account the impact on the economic and regulatory capital 
+and liquidity situation",regulatory
+Landesbank,"ESG scenario analyses are prepared for several medium and long -term time periods on the basis of 
+regulatory or own scenarios and serve primarily as an early warning and way of identifying where action is required in the 
+long term, as well as a basis for strategic discussions",regulatory
+Landesbank,"It supports 
+the Board of Managing Directors, among other things in structuring the balance sheet, managing capital and liquidity as 
+Risk strategy Non -financial riskFinancial risk Non-financial riskRisk Committee, Asset Liability Committee, Regulatory / Accounting Committee
+Investment risks
+Group investmentsMarket price risks
+Liquidity risks
+•Treasury
+•Financial Institutions & Markets
+•Group Risk ControlCounterparty default risks /
+Country risks
+•Front office departments
+•Back office departments
+−Credit and risk management
+−Central loan processing
+•Country Limit Committee
+•Joint decision -making authority on lending 
+(front office / back office)
+•Group Risk Control
+•Credit CommitteeCredit risk strategyMarket price risk,
+Liquidity risk,
+Investment risk,
+Real estate risk and
+Development risk strategyGroup's Board of Managing Directors
+Business strategy, Group risk strategyAnnual General Meeting
+Supervisory Board
+Committees
+Real estate risks
+•LBBW Immobilien Group
+•LBBW Corporate Real Estate 
+Management GmbH
+Development risks
+•LBBW Immobilien Management GmbHOperational risk
+•Group Risk Control in cooperation with all 
+of the Group's divisions
+Other risks
+•Business risks
+•Reputation risks
+•Model risks
+•Tax Compliance risksAuthority based on decision -making hierarchy for loans and trading, articles of association and internal regulations of the exec utive bodies and the 
+Group’s Board of Managing Directors
+Cross -cutting issues (incl",liability
+Landesbank,"The Regulatory/Accounting Committee evaluates at an early stage the requirements of the large number of provisions of 
+banking supervisory law and accounting that are relevant for management purposes and takes the measures required",regulatory
+Landesbank,"Processes of adjustment  
+New types of trading and credit product at LBBW are subject to a New Product Process that ensures the  product is 
+included in LBBW’s various systems, such as accounting or Risk Control",credit
+Landesbank,"The structure takes account of MaRisk and other relevant statements by national and international 
+regulatory authorities",regulatory
+Landesbank,"Disclosure report 2022   
+14 
+LBBW Group – Risk situation  
+LBBW Group – Risk -bearing capacity  
+     
+ 31/12/2022  31/12/2021  
+EUR million  Absolute1 Utilization in %  Absolute1 Utilization in %  
+Aggregate risk cover  13,335  44 12,210  50 
+Economic capital limit2 10,700  54 10,000  60 
+Correlated total economic capital  5,830   6,038   
+of which:      
+Counterparty risk  3,604   3,725   
+Market price risk  1,665   1,835   
+Investment risk  30  31  
+Operational risk  690  676  
+Development risk  98  101  
+Real estate risk  135  131  
+Other r isks3 279  196  
+Interrisk correlations  -672  -656  
+     
+1 Confidence level 99",investment
+Landesbank,"Aggregate risk cover 
+increased despite negative effects from market developments, especially thanks to operating profit performance and the 
+integration of Berlin Hyp",profit
+Landesbank,"Higher interest rates also have a risk -reducing effect on 
+the present values of the individual  risk types",interest
+Landesbank,"Details on the regulatory key figures can be found in the report on financial position and performance, the notes and in 
+the liquidity risks section",regulatory
+Landesbank,"Other pot ential effects of the Russia/Ukraine conflict, supply chain bottlenecks, inflation and changes in interest rates on 
+LBBW’s economic and regulatory key performance indicators are regularly analyzed and investigated in stress 
+scenarios",interest
+Landesbank,"Each member must clearly understand LBBW’s 
+governance regulations, their respective role , responsibilities, the Group structure  and any potential conflicts of interest 
+arising from this",interest
+Landesbank,"Key professional requirements for members of the Board of Managing Directors:  
+• Ideally a degree or equivalen t qualification in banking (in particular, economics, banking or law)  
+• Managerial authorization in accordance with the German Banking Act (KWG)  
+• Many years of relevant professional and management experience at a bank  
+• Knowledge of legal and regulatory requir ements and banking regulation  
+• Knowledge and practical experience in integrated bank management and internal governance  
+Key personal requirements for members of the Board of Managing Directors:  
+• Leadership skills, highly motivated and genuine personality co mbined with team focus  
+• High level of personal integrity, loyalty, excellent reputation  
+• Strategic vision, negotiating skills, ability to deal with criticism and conflict, good judgment, decisive  
+• Strong communication skills, convincing nature and strong foc us on customers and quality  
+Key professional requirements for members of the Supervisory Board:  
+• Ideally a degree or vocational apprenticeship  
+• Good knowledge of banking, financial services, financial markets and the financial sector  
+• Good knowledge of legal and regulatory requirements and banking regulation  
+• Good knowledge of LBBW’s strategic focus and business areas  
+• Efficient and effective monitoring skills  
+• General understanding of accounting and auditing issues  
+Key personal requirements for members of th e Supervisory Board:  
+• Analytical skills, structured approach and good judgment  
+• High level of personal integrity, loyalty and excellent reputation  
+• Strategic vision, strong communication skills and willingness to develop skills  
+ 
+ Disclosure report 2022   
+18 
+• Ability to critically analyze and scrutinize reports  
+Practical experience from previous positions and theoretical knowledge and skills acquired through training must be 
+taken into account when evaluating individual suitability",regulatory
+Landesbank,"The Risk Committee discussed the Group risk strategy as derived 
+from the business strategy, as well as the Bank’s credit, market -price, liquidity, real estate, development and investment 
+risk and operational risk strategies with the Board of Managing Directors",investment
+Landesbank,"Disclosure report 2022   
+19 
+4 Disclosure of the scope of 
+application (Article 436 CRR)  
+Unless otherwise indicated, all disclosu res in this report relate to the regulatory scope of consolidation of the LBBW 
+Group in accordance with Section 10a of the German Banking Act in conjunction with Article 18 et seqq",regulatory
+Landesbank,"Application of waiver rule (Article 436 f -h CR R, EU LIB)  
+At the request of LBBW, the ECB upheld in April 2016 the option provided for in Article 7 (3)  CRR, under which individual 
+institutions may be excluded if organizational and procedural requirements of certain regulations for own funds and 
+regulat ory reporting at an institution level are satisfied (waiver rules)",funds
+Landesbank,"There is no material legal or factual impediment within LBBW Group to the immediate transfer of own funds or repayment 
+of liabilities between LBBW as parent company and its subsidiar ies",funds
+Landesbank,"As at 31  December  2022, no non -consolidated subsidiary had less than the prescribed own funds",funds
+Landesbank,"1 Differences between accounting and regulatory scopes of 
+consolidation and mapping of financial statement categories with 
+regulatory risk categories (Ar ticle 436 b and c CRR, EU LIA)  
+Reconciliation statement of items within the accounting and regulatory scope of 
+consolidation  
+The disclosure requirements call for a full reconciliation of the published annual financial statements with data in 
+accordance FIN REP and moreover with data in accordance with COREP",regulatory
+Landesbank,"For FINREP, accounting figures will be used in accordance with the regulatory scope of consolidation; for COREP, the 
+figures in question will be calculated in accordance with regulatory rules",regulatory
+Landesbank,"Disclosure report 2022   
+20 
+        
+ Carrying 
+values as 
+reported in 
+published 
+financial 
+statements  Carrying 
+values under 
+scope of 
+regulatory 
+consolidation  Carrying values of items  
+EUR million    Subject to the 
+credit risk 
+framework  Subject to the 
+CCR 
+framework  Subject to the 
+securitization 
+framework  Subject to the 
+market r isk 
+framework  Not subject to 
+own funds 
+requirements 
+or subject to 
+deduction 
+from own 
+funds  
+Assets         
+Cash and cash equivalents  10,569  10,566  10,566    9,811   
+Financial assets measured at 
+amortized cost:  228,969  226,117  213,043   6,355  30,130  99 
+Of wh ich: Loans and advances 
+to banks  81,283  81,182  78,893    5,207  99 
+Of which: Loans and advances 
+to customers  146,542  143,790  133,635   5,727  24,707   
+Of which: Debentures and other 
+fixed -income securities  1,144  1,144  516  628 216  
+Financial assets measured at fair 
+value through other comprehensive 
+income  36,668  37,109  37,109    5,587   
+Financial assets designated at fair 
+value  1,779  1,779  1,779    856  
+Financial assets mandatorily 
+measured at fair value through profit 
+or loss  39,379  40,891  6,320  20,098   39,45 1 130 
+Shares in investments accounted for 
+using the equity method  226       
+Portfolio hedge adjustment 
+attributable to assets  -549 -549     -549 
+Non-current assets and disposal 
+groups held for sale  1 1 1     
+Intangible assets  209 199     199 
+Investmen t property  791 58 58     
+Property and equipment  813 772 772   0  
+Current income tax assets  71 69 69   3  
+Deferred income tax assets  967 1,002  681    321 
+Other assets  4,281  3,865  3,728    380 135 
+Total assets as at 31 Dec",profit
+Landesbank,"2022 324,174  321,880  274,127  20,098  6,355  86,217  335 
+        
+ 
+  
+ 
+ Disclosure report 2022   
+21 
+ 
+        
+ Carrying 
+values as 
+reported in 
+published 
+financial 
+statements  Carrying 
+values under 
+scope of 
+regulatory 
+consolidation  Carrying values of items  
+EUR million    Subject to the 
+credit risk 
+framework  Subject to the  
+CCR 
+framework  Subject to the 
+securitization 
+framework  Subject to the 
+market risk 
+framework  Not subject to 
+own funds 
+requirements 
+or subject to 
+deduction 
+from own 
+funds  
+Equity and liabilities         
+Financial liabilities measured at 
+amortized cost, of wh ich 273,657  271,571     52,458  219,114  
+Deposits from banks  84,082  83,519     15,518  68,001  
+Deposits from customers  115,748  116,075     18,601  97,474  
+Securitized liabilities  68,660  66,810     17,379  49,431  
+Subordinated capital  5,167  5,167     960 4,207  
+Financial liabilities designated at fair 
+value  3,584  3,584     818 2,766  
+Financial liabilities mandatorily 
+measured at fair value through profit 
+or loss  29,825  29,830   20,989   25,814  619 
+Portfolio hedge adjustment 
+attributable to liabilities  -3,164  -3,164      -3,164  
+Provisions  1,825  1,724     1 1,723  
+Liabilities from disposal groups         
+Current income tax liabilities  190 172    2 170 
+Deferred income tax liabilities  22 1     1 
+Other liabilities  2,794  2,693     1 2,691  
+Equity  15,442  15,468      15,468  
+Total equity and liabilities as at 
+31 Dec",profit
+Landesbank,"2022  324,174  321,880   20,989   79,093  239,389  
+        
+Figure 3: EU LI1 – Differences between accounting and regulatory scopes of consolidation and mapping of financial statement categorie s with regulatory risk categories  
+  
+ 
+ Disclosure report 2022   
+22 
+4",regulatory
+Landesbank,"2 Main sources of differences between regulatory exposure 
+amounts and carrying values in financial statements  
+(Article 436d CRR, EU LIA)  
+      
+  Items subject to  
+EUR million  Total  Credit risk 
+framework  Securitizatio n 
+framework  CCR 
+framework  Market risk 
+framework  
+Assets carrying value amount under the scope of regulatory 
+consolidation (as per template LI1)  321,880  274,127  6,355  20,098  86,217  
+Liabilities carrying value amount under the regulatory scope of 
+consolidati on (as per template LI1)  82,491    20,989  79,093  
+Total net amount under the regulatory scope of consolidation  286,715  274,127  6,355  – 891 7,124  
+Off-balance -sheet amounts  79,624  75,544  4,080    
+Differences in valuations  – 260     
+Differences due to differ ent netting rules, other than those already 
+included in row  2 21,911    21,911   
+Differences due to consideration of provisions       
+Differences due to the use of credit risk mitigation techniques 
+(CRMs)       
+Differences due to credit conversion factors       
+Differences due to securitization with risk transfer       
+Other differences  16,402  26,236  0 – 9,834   
+Exposure amounts considered for regulatory purposes  404,392  375,907  10,436  11,186  11,671  
+      
+Figure 4: EU LI2 – Main  sources of differences between regulatory exposure amounts and carrying values in financial statements  
+Exposure amounts considered for regulatory purposes  
+• in the credit framework consist of on -balance -sheet and off -balance -sheet items, the securities fin ancing activities of 
+the CRSA and IRB, investments reported under IRB, other non -credit obligation assets and the default fund 
+contributions of a central counterparty (CCP)  
+• in the CCR framework consist of the combined derivative positions in the CRSA and I RB approach  
+• in the securitization framework include securitizations pursuant to  
+• SEC-ERBA (Securitization – External Ratings Based Approach)  
+• SEC-IRBA (Securitization – Internal Ratings Based Approach)  
+• SEC-SA (Securitization – Standardized Approach)",investment
+Landesbank,"The oth er differences in the credit risk framework result mainly from the differing valuation for securities financing 
+transactions",credit
+Landesbank,"H owever, these companies are outside the regulatory scope of 
+consolidation",regulatory
+Landesbank,"In the following table, the main companies included in the regulatory scope of consolidation in accordance with Article 
+436 CRR are classified according to the type of business and its regulatory treatment and are sho wn alongside their 
+classification in the scope of consolidation under IFRS",regulatory
+Landesbank,"Equity investments in entities in the financial sector not 
+consolidated under the regulatory framework are taken into account in the threshold method",investment
+Landesbank,"No deduction from own 
+funds w as necessary in the year under review",funds
+Landesbank,"Disclosure report 2022   
+23 
+        
+Name of the entity  Method of 
+accounting 
+consolidation  Method of regulatory consolidation  Description of the 
+entity  
+  Full 
+consolidation  Proportional 
+consolidation  Equity 
+method  Neither 
+consolidated 
+nor deducted  Deducted   
+Landesbank Baden -
+Württe mberg  Full consolidation  X     Credit institution  
+MMV Bank GmbH  Full consolidation  X     Credit institution  
+Berlin Hyp AG  Full consolidation  X     Credit institution  
+Hypo Vorarlberg Bank AG  At 
+equity/accounted 
+for using the equity 
+method     X  Credit in stitution  
+LBBW Asset Management 
+Investmentgesellschaft mbH  Full consolidation  X     Asset management 
+company  
+LBBW México S",investment
+Landesbank,"Full consolidation  X     Financial institution  
+LBBW Venture Capital GmbH  Full consolidation  X     Financial institution  
+Süd Beteiligungen GmbH  Full consolidation  X     Financial institution  
+SüdFactoring GmbH  Full consolidation  X     Financial institution  
+SüdLeasing GmbH  Full consolidation  X     Financial institution  
+Austria 
+Beteiligungsgesellschaft mbH  Full consolidati on X     Financial institution  
+German Centre for Industry 
+and Trade GmbH, 
+Beteiligungsgesellschaft  Full consolidation  X     Financial institution  
+LBBW US Real Estate 
+Investment LLC  Full consolidation  X     Financial institution  
+Zweite LBBW US Real Estat e 
+GmbH  Full consolidation  X     Financial institution  
+LBBW Leasing GmbH i",investment
+Landesbank,"All positions 
+measured at fair value are taken into account and the total valuation adjustments are deducted from Common Equity Tier 
+1 capital",equity
+Landesbank,"To thi s end, market price uncertainty and netting costs are calculated by the 
+multiplication of net sensitivity for each risk factor (interest rate delta, interest rate vega, FX delta, FX vega, equity de lta, 
+equity vega and credit delta) against a risk factor an d the uncertainty inherent to the risk factor in question",interest
+Landesbank,"The basic  assumption in this case is strictly 
+that there is a 90% probability that the valuation adjustments made will be sufficient to cover potential losses in the event  
+of a liquidation of the transactions",loss
+Landesbank,"“As yet unearned risk premiums” are an estimate of unce rtainty in relation to the counterparty credit risk (CVA) in the 
+case of derivatives",credit
+Landesbank,"The adjustment is 
+calculated for bond, interest -rate, credit and equity positions",interest
+Landesbank,"Risk category  Category level AVA - 
+Valuation uncertainty  
+Total 
+category 
+level  post -
+diversifica
+tion   
+Category level 
+AVA  Equity  Interest 
+Rates  Foreign 
+exchange  Credit  Commodit
+ies Unearned 
+credit 
+spreads 
+AVA  Investmen
+t and 
+funding 
+costs AVA  Of which: 
+Total core 
+approach 
+in the 
+trading 
+book  Of which: 
+Total core 
+approach 
+in the 
+banki ng 
+book  
+Market price 
+uncertainty  33 106 0 48  3  100 53 48 
+Set not applicable 
+in the EU            
+Close -out cost  49 78 0 6  6  69 50 19 
+Concentrated 
+positions     25    25 3 22 
+Early termination            
+Model risk  21 20 0 2 0 2  23 23 0 
+Operational  risk 4 10 0 3    17 10 7 
+Set not applicable 
+in the EU            
+Set not applicable 
+in the EU            
+Future 
+administrative 
+costs  7 9 2 7 0   25 25  
+Set not applicable 
+in the EU            
+Total Additional 
+Valuation 
+Adjustments 
+(AVAs)         260 165 95 
+           
+Template 6: EU PV1 – Prudent valuation adjustments (PVA)
+ 
+ Disclosure report 2022   
+25 
+5 Disclosure of own funds (Article 
+437 CRR and  EBA/GL/2018/01)  
+5",interest
+Landesbank,"1 Composition of regulatory own funds (Article 437 a, d -f CRR)  
+The following table shows t he composition of regulatory own funds",funds
+Landesbank,"The table also includes regulatory adjustments, 
+regulatory ratios and relevant capital buffers",regulatory
+Landesbank,"The “Source based on reference numbers/letters of the balance sheet under the regulatory scope of consolidation” 
+column in Figure 7 reconciles the components of the Bank’s own funds under CRR with the balance sheet",funds
+Landesbank,"The LBBW Group’s own funds are made up o f  
+• Common Equity Tier 1 (CET1) capital, which comprises the following items:  
+• paid-in capital  
+• share premiums (capital reserves)  
+• retained earnings  
+• other eligible reserves (including revaluation reserves)  
+• Additional Tier 1 (AT1) capital, which comprises the following items:  
+• subordinated AT1 bonds  
+• Tier 2 (T2) capital, which comprises the following items:  
+• long-term subordinated liabilities (and related premiums)  
+• participation rights (and related premiums)  
+• silent partners’ contributions only eligible as T2 capit al on the basis of the provisions of CRR  
+Tier 2 capital must be amortized to the day in the five years prior to maturity under the applicable rules",bonds
+Landesbank,"There will 
+be slight increases in regulatory equity due to earnings retention and in the to tal risk exposure amount due to the 
+changes to operational risks compared with the 2022 annual report, with a corresponding impact on the related ratios",equity
+Landesbank,The Common Equity Tier  1 (CET1) of the LBBW Group increased on the previous year,equity
+Landesbank,"In addition, the inclusion of the annual profit from 2021 and 2022 and of 
+actuarial gains had a positive impact on CET1",profit
+Landesbank,No restrictions are applied to the calculation of own funds in ac cordance with CRR (point (e) of Article  437 CRR),funds
+Landesbank,"The 
+calculation of capital ratios does not include any elements of own funds calculated on a basis other than that stipulated in 
+the CRR (point (f) of Article  437 CRR)",funds
+Landesbank,"Disclosure report 2022   
+26 
+   
+EUR million  
+Capital instruments  Amounts  Source based on 
+reference 
+numbers/letters of the 
+balance sheet under 
+the regulatory scope of 
+consolidation  
+Common Equity Tier 1 (CET1) capital: instruments and reserves  
+Capital instruments and the related share premium accounts  11,724   
+of which: paid -in capital  3,484  j 
+of which: capital reserves  8,240  k 
+of which: other    
+Retained earnings  2,455  l 
+Accumulated oth er comprehensive income (and other reserves)  - 62 m + n + o  
+Funds for general banking risk    
+Amount of qualifying items referred to in Article 484 (3) and the related share premium accounts subject to phase out 
+from CET1    
+Minority interests (amount all owed in consolidated CET1)    
+Independently reviewed interim profits net of any foreseeable charge or dividend  280  
+Common Equity Tier 1 (CET1) capital before regulatory adjustments  14,397   
+Common Equity Tier 1 (CET1) capital: regulatory adjustments  
+Additional value adjustments (negative amount)  - 260  
+Intangible assets (net of related tax liability) (negative amount)  - 199 a + b  
+Deferred tax assets that rely on future profitability excluding those arising from temporary differences (net of related 
+tax liability where the conditions in Article 38 (3) are met) (negative amount)  - 144 c 
+Fair value reserves related to gains or losses on cash flow hedges of financial instruments that are not valued at fair 
+value    
+Negative amounts resulting from the calcu lation of expected loss amounts  - 8  
+Any increase in equity that results from securitized assets (negative amount)    
+Gains or losses on liabilities valued at fair value resulting from changes in own credit standing  - 20  
+Defined -benefit pension fund ass ets (negative amount)  - 14  
+Direct and indirect holdings by an institution of own CET1 instruments (negative amount)    
+Direct, indirect and synthetic holdings of the CET1 instruments of financial sector entities where those entities have 
+reciprocal cross  holdings with the institution designed to inflate artificially the own funds of the institution (negative 
+amount)    
+Direct, indirect and synthetic holdings by the institution of the CET1 instruments of financial sector entities where the 
+institution does  not have a significant investment in those entities (amount above 10% threshold and net of eligible 
+short positions) (negative amount)    
+Direct, indirect and synthetic holdings by the institution of the CET1 instruments of financial sector entities where  the 
+institution has a significant investment in those entities (amount above 10% threshold and net of eligible short 
+positions) (negative amount)    
+Exposure amount of the following items which qualify for a RW of 1250%, where the institution opts for the  deduction 
+alternative  - 49  
+of which: qualifying holdings outside the financial sector (negative amount)    
+of which: securitization positions (negative amount)  - 49  
+of which: free deliveries (negative amount)    
+Deferred tax assets arising from tempor ary differences (amount above 10% threshold, net of related tax liability where 
+the conditions in Article 38 (3) are met) (negative amount)    
+Amount exceeding the 17",profit
+Landesbank,"65% threshold (negative amount)    
+of which: direct, indirect and synthetic holdings by t he institution of the CET1 instruments of financial sector 
+entities where the institution has a significant investment in those entities    
+of which: deferred tax assets arising from temporary differences    
+Losses for the current financial year (negative amount)    
+Foreseeable tax charges relating to CET1 items except where the institution suitably adjusts the amount of CET1 
+items insofar as such tax charges reduce the amount up to which those items may be used to cover risks or losses 
+(negative amount)    
+Qualifying AT1 deductions that exceed the AT1 items of the institution (negative amount)    
+Other regulatory adjustments  5  
+Total regulatory adjustments to Common Equity Tier 1 (CET1)  - 689  
+Common Equity Tier 1 (CET1) capital  13,708   
+Additional Tier 1  (AT1) capital: instruments  
+Capital instruments and the related share premium accounts    
+ 
+ Disclosure report 2022   
+27 
+   
+EUR million  
+Capital instruments  Amounts  Source based on 
+reference 
+numbers/letters of the 
+balance sheet under 
+the regulatory scope of 
+consolidation  
+of which: classified as equity under applicable accounting standards    
+of which: classified as liabilities under applicable accounting standards    
+Amount of qualif ying items referred to in Article 484 (4) CRR and the related share premium accounts subject to 
+phase out from AT1    
+Amount of qualifying items referred to in Article  494a  (1) subject to phase out from AT1    
+Amount of qualifying items referred to in Arti cle 494b(1) subject to phase out from AT1    
+Qualifying Tier 1 capital included in consolidated AT1 capital (including minority interests not included in row 5) issued 
+by subsidiaries and held by third parties    
+of which: instruments issued by subsidiarie s subject to phase out    
+Additional Tier 1 (AT1) capital before regulatory adjustments  744 p 
+Additional Tier 1 (AT1) capital: regulatory adjustments  
+Direct, indirect and synthetic holdings by an institution of own AT1 instruments (negative amount)    
+Direct, indirect and synthetic holdings of the AT1 instruments of financial sector entities where those entities have 
+reciprocal cross holdings with the institution designed to inflate artificially the own funds of the institution (negative 
+amount)    
+Direct , indirect and synthetic holdings of the AT1 instruments of financial sector entities where the institution does not 
+have a significant investment in those entities (amount above 10% threshold and net of eligible short positions) 
+(negative amount)    
+Direc t, indirect and synthetic holdings by the institution of the AT1 instruments of financial sector entities where the 
+institution has a significant investment in those entities (net of eligible short positions) (negative amount)    
+Qualifying T2 deductions t hat exceed the T2 items of the institution (negative amount)    
+Other regulatory adjustments to AT1 capital    
+Total regulatory adjustments to Additional Tier 1 (AT1) capital    
+Additional Tier 1 (AT1) capital  744  
+Tier 1 capital (T1 = CET1 + AT1)  14,452   
+Tier 2 (T2) capital: instruments  
+Capital instruments and the related share premium accounts  4,420  e + f + g + h + i  
+Amount of qualifying items referred to in Article 484 (5) and the related share premium accounts subject to phase out 
+from T2 as describ ed in Article 486 (4) CRR    
+Amount of qualifying items referred to in Article 494a (2) subject to phase out from T2    
+Amount of qualifying items referred to in Article 494b (2) subject to phase out from T2    
+Qualifying own funds instruments included in consolidated T2 capital (including minority interests and AT1 
+instruments not included in rows 5 or 34) issued by subsidiaries and held by third parties    
+of which: instruments issued by subsidiaries subject to phase out    
+Credit risk adjustments  395  
+Tier 2 (T2) capital before regulatory adjustments  4,814   
+Tier 2 (T2) capital: regulatory adjustments  
+Direct, indirect and synthetic holdings by an institution of own T2 instruments and subordinated loans (negative 
+amount)  - 25  
+Direct, indirect and synth etic holdings of the T2 instruments and subordinated loans of financial sector entities where 
+those entities have reciprocal cross holdings with the institution designed to inflate artificially the own funds of the 
+institution (negative amount)    
+Direct, indirect and synthetic holdings of the T2 instruments and subordinated loans of financial sector entities where 
+the institution does not have a significant investment in those entities (amount above 10% threshold and net of eligible 
+short positions) (negat ive amount)    
+Direct, indirect and synthetic holdings by the institution of the T2 instruments and subordinated loans of financial 
+sector entities where the institution has a significant investment in those entities (net of eligible short positions) 
+(nega tive amount)    
+Qualifying eligible liabilities deductions that exceed the eligible liabilities items of the institution (negative amount)    
+Other regulatory adjustments to T2 capital  -307  
+Total regulatory adjustments to Tier 2 (T2) capital  -332  
+Tier 2 (T2) capital  4,482   
+Total capital (TC = T1 + T2)  18,934   
+Total risk -weighted exposure amount  93,645   
+ 
+ Disclosure report 2022   
+28 
+   
+EUR million  
+Capital instruments  Amounts  Source based on 
+reference 
+numbers/letters of the 
+balance sheet under 
+the regulatory scope of 
+consolidation  
+Capital ratios and requirements including buffers  
+Common Equity Tier 1  14",loss
+Landesbank,"8  
+of which: additional own funds requirements to address the risks other than the risk of excessive leverage  1",funds
+Landesbank,"0  
+Common Equity Tier 1 capital (as a percentage of risk exposure amount) available afte r meeting the minimum capital 
+requirements  8",equity
+Landesbank,"1  
+Amounts below the thresholds for deduction (before risk weighting)  
+Direct and indirect holdings of own funds and eligible liabilities of financial sector entities where the institution does 
+not have a signi ficant investment in those entities (amount below 10% threshold and net of eligible short positions)  492  
+Direct and indirect holdings by the institution of the CET1 instruments of financial sector entities where the institution 
+has a significant investme nt in those entities (amount below 17",investment
+Landesbank,"65% threshold, net of related tax liability 
+where the conditions in Article 38 (3) are m et) 681 d 
+Applicable caps on the inclusion of provisions in Tier 2  
+Credit risk adjustments included in T2 in respect of exposures subject to standardized approach (prior to the 
+application of the cap)    
+Cap on inclusion of credit risk adjustments in T2 under standardized approach  146  
+Credit risk adjustments included in T2 in respect of exposures subject to internal ratings -based approach (prior to the 
+application of the cap)  809  
+Cap for inclusion of credit risk adjustments in T2 under internal rating s-based approach  395  
+   
+Figure 7: EU CC1 – Composition of regulatory own funds  
+5",liability
+Landesbank,"2 Reconciliation of regulatory own funds to balance sheet in the 
+audited financial statements (Article 437 a CRR)  
+The following table compares t he components of the Bank’s own funds relevant for the CRR report on the basis of the 
+accounting and regulatory scopes of consolidation",funds
+Landesbank,"It includes only those items of the balance sheet which are relevant 
+for the calculation of the Bank’s own funds in acc ordance with CRR",funds
+Landesbank,"The disclosure of the shareholders’ equity rows in the following templates EU CC2 Reconciliation of regulatory own funds 
+to balance sheet in the a udited financial statements is not relevant for LBBW, as LBBW has no shareholders’ equity",funds
+Landesbank,"Disclosure report 2022   
+29 
+    
+ Balance sheet as in 
+published financial 
+statements (IFRS)  Under regulatory 
+scope of consolidation 
+(FINREP)   
+EUR million  As at period end  Reference  
+Assets  – Breakdown by asset classes according to the balance sheet in the published financial statements  
+Intangible assets  209 199  
+of which goodwill    a 
+of which other intangible assets  209 199 b 
+Deferred income tax assets  967 1,002   
+of which from unused tax losses  144 140 c 
+of which from temporary differences  822 862 d 
+Equity and liabilities     
+Financial liabilities designated at fair value  3,584  3,584   
+of which subordinated liabilities  387 387 e 
+of which capital generated from profit -participation right s 26 26 f 
+Subordinated capital  5,167  5,167   
+of which subordinated liabilities  4,255  4,255  g 
+of which typical silent partners’ contributions  891 891 h 
+of which capital generated from profit -participation rights  21 21 i 
+Equity  15,442  15,468   
+of which s hare capital  3,484  3,484  j 
+of which capital reserve  8,240  8,240  k 
+of which retained earnings  1,665  1,484  l 
+of which other income  -237 -22  
+of which revaluation reserve  -315 -75  
+of which revaluation reserve for equity investments  -36 204 m 
+of which r evaluation reserve for debt instruments  -280 -280 n 
+of which currency translation reserve  38 13 o 
+of which additional equity components (Additional Tier 1)  745 745 p 
+    
+Figure 8: EU CC2 – Reconciliation of regulatory own fu nds to balance sheet  in the audited financial statements  
+5",profit
+Landesbank,"3 Key features of regulatory own funds instruments and eligible 
+liabilities instruments (Article 437 b -c CRR)  
+The disclosures required under Article 437 (1) (b)  CRR on the main features of all capi tal instruments issued are 
+published in the annex “Table  EU CCA  – Key features of regulatory own funds instruments and eligible liabilities 
+instruments” at the same location on LBBW’s website",funds
+Landesbank,"4 Comparison  of own funds and capital and leverage ratio 
+applying and not applying transitional provisions for IFRS  9 in 
+conjunction with Article 473 a CRR II (EBA/GL/2018/01)  
+The calculation of capital ratios does not include any elements of own funds calculated on a  basis other than that 
+stipulated in the CRR (point (f) of Article  437 CRR)",funds
+Landesbank,"LBBW has been phasing in IFRS 9 since March 2020, which is causing a temporary increase in Common Equity Tier 1 
+capital",equity
+Landesbank,"Disclosure report 2022   
+30 
+      
+Ratios in %  31/12/2022  30/09/2022  30/06/2022  31/03/2022  31/12/2021  
+Available capital (amounts)       
+Common Equity Tier 1 (CET1) capital  13,708  12,511  12,644  12,581  12,473  
+Common Equit y Tier 1 (CET1) capital not 
+applying transitional provisions for IFRS  9 or 
+similar expected credit losses  13,391  12,242  12,375  12,314  12,252  
+Tier 1 capital  14,452  13,255  13,387  13,325  13,456  
+Tier 1 capital not applying transitional 
+provisions for IFRS  9 or similar expected 
+credit losses  14,135  12,985  13,118  13,058  13,235  
+Total capital  18,934  17,770  17,966  17,974  18,090  
+Total capital not applying transitional 
+provisions for IFRS  9 or similar expected 
+credit losses  18,924  17,762  17,957  17,965  18,078  
+Risk-weighted assets       
+Total amount of risk -weighted assets  93,645  89,296  91,154  89,096  84,416  
+Total amount of risk -weighted assets not 
+applying transitional provisions for IFRS  9 or 
+similar expected credit losses  93,975  89,577  91,434  89,374  84,641  
+Capit al ratios       
+CET1 capital (as a percentage of the total risk 
+exposure amount)  14",loss
+Landesbank,"8 
+Common Equity Tier 1 capital (as a 
+percentage of the total risk exposure amount) 
+not applying transitional provisions for IFRS  9 
+or similar expected credit losses  14",loss
+Landesbank,"9 
+Tier 1 capital (as a percentage of the total risk 
+exposure amount) not applying transitional 
+provisions for IFRS  9 or simil ar expected 
+credit losses  15",loss
+Landesbank,"4 
+Total capital (as a percentage of the total risk 
+exposure amount) not applying transitional 
+provisions for IFRS  9 or similar expected 
+credit losses  20",loss
+Landesbank,"1 
+Leverage ratio not applying transitional 
+provisions for IF RS 9 or similar expected 
+capital losses  4",loss
+Landesbank,"1 
+      
+Figure 9: Comparison of own funds and capital and leverage ratio applying and not applying
+ 
+ Disclosure repor t 2022   
+31 
+6 Disclosure of countercyclical capital 
+buffers (Article 440  CRR)  
+6",funds
+Landesbank,"1 Geographical distribution of credit exposures relevant for the 
+calculation of the countercyclical buffer (Article 440 (a) CRR)  
+The composition of the institution -specific countercyclical capital buffer must be disclosed on a semi -annual basis",credit
+Landesbank,The “Other countries” item groups 109 countries whose share in the weighted own funds requirements is only 7,funds
+Landesbank,"General credit exposures  Relevant credit exposures – 
+Market risk    Own fund requirements     
+EUR million  
+Breakdown by 
+country:  Exposure 
+value KSA  Exposure 
+value IRB  Sum of long 
+and short 
+positions of 
+trading book 
+exposures 
+for SA  Value of 
+trading 
+book 
+exposures 
+for internal 
+models  Securitizatio
+n exposures 
+Exposure 
+value for 
+non-trading 
+book  Total 
+exposure 
+value  Relevant 
+credit risk 
+exposures - 
+Credit risk  Relevant 
+credit 
+exposures – 
+Market risk  Relevant 
+credit 
+exposu res – 
+Securitizatio
+n positions in 
+the non -
+trading book  Total  Risk-
+weighted 
+exposure 
+amounts  Own 
+fund 
+requirem
+ents 
+weights 
+(%) Counterc
+yclical 
+buffer 
+rate (%)  
+Germany  19,430  91,435  3,913   10,168  124,947  3,743  82 132 3,957  49,467  66",credit
+Landesbank,"20  
+Total  21,072  146,967  11,242   10,660  189,941  5,548  235 147 5,930  74,125  100  
+              
+Figure 10: EU CCyB1 – Geographical distribution of credit exposures relevant for the calculation of the countercyclical buffer  
+ 
+ Disclosure repor t 2022   
+32 
+6",credit
+Landesbank,"conversion to credit equivalent amounts of off -balance sheet exposures)  30,724  
+11 (Adjustment for prudent valuation adjustments and specific and general provisions which h ave reduced Tier 1 capital)  0 
+EU-11a (Adjustment for exposures excluded from the total exposure measure in accordance with point (c) of Article 429a(1) CRR)  0 
+EU-11b (Adjustment for exposures excluded from the leverage ratio total exposure measure in acc ordance with point (j) of Article 429a(1) CRR)  0 
+12 Other adjustments  -44,841  
+13 Total exposure measure  305,958  
+   
+Figure 12: EU LR1 – LRSum: Summary reconciliation of accounting assets and leverage ratio exposures  
+7",credit
+Landesbank,"2 Lever age ratio common disclosure  
+(Article 451 (1) a -b, c, (2), (3) CRR)  
+Row EU-22e entirely comprises exposures arising from passing -through promotional loans to other credit institutions, if 
+the promotional loans were granted by an entity set up by the centra l government, regional government or local authority 
+of a Member State through an intermediate credit institution",credit
+Landesbank,"Disclosure report 2022   
+34 
+    
+  CRR leverage ratio exposures  
+EUR million   31/12/2022  30/06/2022  
+On-balance sheet exposures (excluding derivatives and SFTs)    
+1 On-balance sheet items (excluding derivatives, SFTs, but including collateral)  287,263  289,147  
+2 Gross -up for derivatives collateral provided where deducted from the balance sheet assets pursuant to the 
+applicable accounting framework  0 0 
+3 (Deductions of r eceivables assets for cash variation margin provided in derivatives transactions)  -9,435  -7,776  
+4 (Adjustment for securities received under securities financing transactions that are recognized as an asset)  0 0 
+5 (General credit risk adjustments to on -balance sheet items)  0 0 
+6 (Asset amounts deducted in determining Tier 1 capital)  -98 -9 
+7 Total on -balance sheet exposures (excluding derivatives and SFTs)  277,729  281,362  
+Derivative exposures    
+8 Replacement cost associated with SA -CCR derivatives tran sactions (i",credit
+Landesbank,"net of eligible cash variation margin)  12,640  11,548  
+EU-8a Derogation for derivatives: replacement costs contribution under the simplified standardized approach  0 0 
+9 Add-on amounts for potential future exposure associated with SA -CCR deri vatives transactions  11,827  11,090  
+EU-9a Derogation for derivatives: Potential future exposure contribution under the simplified standardized approach  0 0 
+EU-9b Exposure determined under Original Exposure Method  0 0 
+10 (Exempted CCP leg of client -cleare d trade exposures) (SA -CCR)  -9,749  -6,526  
+EU-10a (Exempted CCP leg of client -cleared trade exposures) (simplified standardized approach)  0 0 
+EU-10b (Exempted CCP leg of client -cleared trade exposures) (original Exposure Method)  0 0 
+11 Adjusted effective  notional amount of written credit derivatives  4,952  6,427  
+12 (Adjusted effective notional offsets and add -on deductions for written credit derivatives)  -3,493  -4,871  
+13 Total derivatives exposures  16,177  17,668  
+Securities financing transaction (SFT) ex posures    
+14 Gross SFT assets (with no recognition of netting), after adjustment for sales accounting transactions  25,975  28,129  
+15 (Netted amounts of cash payables and cash receivables of gross SFT assets)  -6,502  -3,864  
+16 Counterparty credit risk expo sure for SFT assets  1,609  2,687  
+EU-16a Derogation for SFTs: Counterparty credit risk exposure in accordance with Article 429 e(5) and Article 222 CRR  0 0 
+17 Agent transaction exposures  0 0 
+EU-17a (Exempted CCP leg of client -cleared SFT exposure)  0 0 
+18 Total securities financing transaction exposures  21,083  26,953  
+Other off -balance sheet exposures    
+19 Off-balance sheet exposures at gross notional amount  78,807  70,962  
+20 (Adjustments for conversion to credit equivalent amounts)  -48,083  -43,555  
+21 (General provisions deducted in determining Tier 1 capital and specific provisions associated with off -balance 
+sheet exposures)  0 0 
+22 Off-balance sheet exposures  30,724  27,407  
+Excluded exposures    
+EU-22a (Exposures excluded from the total exposure measur e in accordance with point (c) of Article 429a(1) CRR)  -10,937  -14,632  
+EU-22b (Exposures exempted in accordance with point (j) of Article 429a (1) CRR (on and off balance sheet))  0 0 
+EU-22c (Excluded exposures of public development banks (or units) – Public sector investments)  0 0 
+EU-22d (Excluded exposures of public development banks (or units) – Promotional loans)  0 0 
+EU-22e (Excluded passing -through promotional loan exposures by non -public development banks (or units))  -25,642  -25,194  
+EU-22f (Exclud ed guaranteed parts of exposures arising from export credits)  -3,177  -2,918  
+EU-22g (Excluded excess collateral deposited at triparty agents)  0 0 
+EU-22h (Excluded CSD related services of CSD/institutions in accordance with point (o) of Article 429a(1) CRR ) 0 0 
+EU-22i (Excluded CSD related services of designated institutions in accordance with point (p) of Article 429a(1) CRR)  0 0 
+EU-22j (Reduction of the exposure value of pre -financing or intermediate loans)  0 0 
+EU-22k (Total exempted exposures)  -39,755  -42,745  
+Capital and total exposure measure    
+23 Tier 1 capital  14,452  13,387  
+24 Total exposure measure  305,958  310,645  
+Leverage ratio    
+25 Leverage ratio (%)  4",investment
+Landesbank,"31 
+26 Regulatory minimum leverage ratio requirement (%)  3",regulatory
+Landesbank,"At LBBW, promotional loans are passed through both to other credit institutions and to 
+customers",credit
+Landesbank,"3 Breakdown of on -balance sheet exposures (excluding 
+derivatives, SFTs, and exempted exposu res)  
+(Article 451 (1) b CRR)  
+   
+  CRR leverage ratio exposures  
+EUR million  
+EU-1 Total on -balance sheet exposures (excluding derivatives, SFTs, and exempted exposures), of which:  241,653  
+EU-2 Trading book exposures  15,791  
+EU-3 Banking book exposures, o f which:  225,862  
+EU-4 Covered bonds  14,378  
+EU-5 Exposures treated as sovereigns  66,708  
+EU-6 Exposures to regional governments, MDB, international organizations and PSE not treated as sovereigns  884 
+EU-7 Institutions  10,586  
+EU-8 Secured by mortgages of  immovable properties  46,211  
+EU-9 Retail exposures  5,981  
+EU-10 Corporates  75,960  
+EU-11 Exposures in default  787 
+EU-12 Other exposures (e",bonds
+Landesbank,"equity, securitizations, and other non -credit obligation assets)  4,369  
+   
+Figure 14: EU LR3 – LRSpl: Split -up of on balance sheet exposures (excluding derivatives, SFTs and exempted exposures)  
+The “Exposures treated as sovereigns” item mainly includes exposures to central banks",equity
+Landesbank,"If required, the management 
+approaches of the leverage ratio that have been identified for LBBW are discussed in the Asset Liability Committee 
+(ALCo) in detail",liability
+Landesbank,"the risk of not meeting payment obligations due to an acute lack of funds), and the refinancing (spread) risk (negative 
+effects on income due to a potential deterioration in the refinancing spread)",funds
+Landesbank,"Internally developed models are used to determine call risks from demand and savings deposits, loan commitments and 
+the collateralization of derivatives for the economic steering group",deposit
+Landesbank,Call risks from demand and savings deposits are calculated using historic changes in portfol ios and their volatility,deposit
+Landesbank,"The LCR and NSFR stipulations apply in the regulatory steering view and a re partially supplemented by internal 
+guidelines and an LCR stress assessment",regulatory
+Landesbank,"The  
+liquidity risks for subsidiaries and affiliates are assessed using a regularly revised risk inventory and transferred to the 
+Risk Management Group’s regulatory framework, which essentially matches the regulatory framework in place at LBBW 
+(Bank), accordin g to their materiality",regulatory
+Landesbank,"Risk monitoring and  reporting  
+The regular monitoring of liquidity risks in terms of economic and regulatory aspects is the responsibility of the LBBW 
+Risk Committee",regulatory
+Landesbank,"Risk management  
+The Asset Liability Committee (ALCo), which meets on a monthly ba sis, is the central body for managing liquidity and 
+funding",liability
+Landesbank,"As part of the first line of defense, Treasury implements all the decisions to be made by ALCo with the aim of active 
+income and risk optimization while simultaneously ensuring solvency at all times and compliance with the regulatory 
+requirements and the requ irements with respect to liquidity risk tolerance",regulatory
+Landesbank,"Regulatory liquidity requirements are firmly 
+embedded in operational management and are actively managed using forecasts and monitored on an ongoing basis",regulatory
+Landesbank,"The strategic parameters in terms of liquidity ri sk tolerance are designed in such a way that the Group’s solvency in EUR 
+and foreign currency is secured for a sufficiently long period even in extreme market situations and in the event of a 
+marked deterioration of LBBW’s credit rating as perceived by mar ket players",credit
+Landesbank,"In cooperation with Risk Controlling, the Treasury fu rther develops the methods used to determine internal funds transfer 
+pricing (FTP)",funds
+Landesbank,"The ALCo is responsible for FTP policy, internal netting interest rates (opportunity interest rates), for 
+monitoring the steering effects of the opportunity interest rates and pricing models on the business units and on the 
+liquidity and funding situation of the Group",interest
+Landesbank,"Disclosure report 2022   
+39 
+On the capital market, LBBW obtained funding in 2022 through German covered bonds, senior preferred, senior non-
+preferred bonds in various currencies, both via private placements and as syndicated high -volume transactions and in 
+some cases as ESG green bonds",bonds
+Landesbank,"Even 
+faced with an environment of changing interest rates, the customer deposit business proved stable and capital market 
+placements attracted li vely interest among national and international investors",interest
+Landesbank,"Disclosure report 2022   
+41 
+Figure 15: EU LIQ1 - Quantitative information of LCR            
+EUR million  Total unweighted value  Total weighted value  
+Quarter ending on  31/12/22  30/09/22  30/06/22  31/03/22  31/12/22  30/09/22  30/06/22  31/03/22  
+Number of data points used in the cal culation 
+of averages  12 12 12 12 12 12 12 12 
+High-quality liquid assets  
+Total high -quality liquid assets (HQLA)      95,118  90,438  88,768  86,594  
+Cash outflows  
+Retail deposits and deposits from small business 
+customers, of which:  22,938  22,972  22,884  22,582 1,660  1,679  1,679  1,663  
+Stable deposits  9,994  10,015  9,900  9,558  500 501 495 478 
+Less stable deposits  8,726  8,860  8,892  8,865  1,160  1,177  1,183  1,184  
+Unsecured wholesale funding  108,177  103,243  99,381  95,452  69,784  66,501  63,173  59,434  
+Operational deposits (all counterparties) and deposits in 
+networks of cooperative banks  26,642  26,561  26,291  26,044  6,681  6,647  6,559  6,455  
+Non-operational deposits (all counterparties)  62,692  59,167  56,874  55,211  44,260  42,339  40,398  38,782  
+Unsecured debt  18,843  17,515 16,216  14,197  18,843  17,515  16,216  14,197  
+Secured wholesale funding      2,595  2,527  2,630  2,561  
+Additional requirements  39,074  37,119  35,199  33,281  11,391  10,430  9,409  8,749  
+Outflows related to derivative exposures and other 
+collateral requirements  5,198  4,656  4,064  3,850  3,826  3,452  3,070  2,928  
+Outflows related to loss of funding on debt products  155 97   155 97   
+Credit and liquidity facilities  33,721  32,366  31,135  29,431  7,410  6,881  6,339  5,821  
+Other contractual funding obligations  6,750  6,703  6,987  7,140  6,544  6,478  6,758  6,925  
+Other contingent funding obligations  36,584  35,913  35,450  35,338  3,059  2,920  2,734  2,707  
+TOTAL CASH OUTFLOWS      95,033  90,535  86,383  82,039  
+Cash inflows  
+Secured lending (e",loss
+Landesbank,"reverse repos)  15,116  14,716  13,913  13,160 1,631  1,678  1,420  1,147  
+Inflows from fully performing exposures  17,202  17,020  16,236  15,329  10,571  10,434  9,895  9,366  
+Other cash inflows  10,743  10,322  9,928  9,565  8,900  8,657  8,495  8,230  
+(Difference between total weighted inflows and total 
+weighted outflows arising from transactions in third 
+countries where there are transfer restrictions or which are 
+denominated in non -convertible currencies)          
+(Excess inflows from a related specialized credit institution)          
+TOTAL CASH INFLOWS  43,061  42,058  40,077  38,054  21,102  20,769  19,810  18,743  
+Fully exempt inflows          
+Inflows subject to 90% cap          
+Inflows subject to 75% cap  37,124  36,094  34,355  32,586  21,102  20,769  19,810  18,743  
+Total adjusted value  
+LIQUIDITY BUFFER      95,118  90,438  88,768  86,594  
+TOTAL NET CASH OUTFLOWS      73,932  69,765  66,572  63,295  
+LIQUIDITY COVERAGE RATIO      129",credit
+Landesbank,"It 
+offers all the usual liability products on a secured and unsecured basis in various maturity segments",liability
+Landesbank,"As well as participating in the ECB’s longer -term tender, the main sources of funding are currently deposits from private 
+and corporate customers and invest ments by affiliated savings banks and German institutional investors",deposit
+Landesbank,"In addition, the long -term funding requirement is covered by Pfandbriefe and unsecured issues, which are highly 
+attractiv e to investors due to the bank’s good market standing and the partial configuration as green or social bonds",bonds
+Landesbank,"call risks 
+from non -maturity depo sits, loan commitments, intended maturity transformation), supplemented by buffer stocks that 
+can be adjusted at short notice",stock
+Landesbank,"For the strategic buffer, the bank manages a stock of highly liquid securities that are funded structurally",stock
+Landesbank,interest rate risks),interest
+Landesbank,"Compliance with the ratio requires that the amount of permanently available weighted  liabilities and 
+own funds – available stable funding (ASF) – at least matches the amount of the permanent funding requirement from 
+weighted assets and off -balance sheet exposures – required stable funding (RSF)",funds
+Landesbank,"The regulatory requirement of a minimum re quirement is binding for LBBW, including the subsidiaries within the Group, 
+from 28 June 2021",regulatory
+Landesbank,"At LBBW, disclosures on the NSFR are based on the regulatory scope of consolidation within the meaning of CRR",regulatory
+Landesbank,"To this end, all 
+the usual liability products are offered on a secured and unsecured basis in various maturi ty segments",liability
+Landesbank,"As well as long -term capital market issues, NSFR management is supplemented by active daily management of short -
+term deposits and loans of non -finance customers",deposit
+Landesbank,"Expected and 
+planned declines due to the lower remaining TLTRO III term were offset by new issues on the capital market and higher 
+deposits from non -financials",deposit
+Landesbank,"For t he transmitted promotional 
+loans, LBBW recognizes both a liability to the development bank and a receivable in the same amount from the final 
+borrower, public savings banks",liability
+Landesbank,"Disclosure report 2022   
+44 
+      
+ Unweighted value by residual maturity  Weighted 
+value  
+31/12/2022  
+EUR million  No maturity  < 6 months  6 months 
+to < 1yr  ≥ 1yr   
+Available stable funding (ASF) Items       
+Capital items and instruments  15,250    5,322 20,572  
+Own funds  15,250    5,322  20,572  
+Other capital instruments       
+Retail deposits   22,586  361 147 21,445  
+Stable deposits   12,811  103 76 12,345  
+Less stable deposits   9,775  257 72 9,101  
+Wholesale funding:   132,115  10,456  75,097  114,056  
+Operation al deposits   28,353  0 0 5,593  
+Other wholesale funding   103,762  10,456  75,097  108,464  
+Interdependent liabilities   4,618  2,085  34,265  0 
+Other liabilities:   3,755  1 2,729  2,729  
+NSFR derivative liabilities       
+All other liabilities and capital instrument s not included in the above categories   3,755  1 2,729  2,729  
+Total available stable funding (ASF)      158,803  
+Required stable funding (RSF) Items  
+Total high -quality liquid assets (HQLA)      4,472  
+Assets encumbered for a residual maturity of one year or more in a cover pool   812 982 30,867  27,762  
+Deposits held at other financial institutions for operational purposes   1 0 0 0 
+Performing loans and securities:   49,649  18,114  85,387  99,399  
+Performing securities financing transactions with financial custome rs collateralized 
+by Level 1 HQLA subject to 0% haircut   9,628  219 0 1,161  
+Performing securities financing transactions with financial customer collateralized by 
+other assets and loans and advances to financial institutions   16,640  6,386  16,100  20,563  
+Performing loans to non - financial corporate clients, loans to retail and small 
+business customers, and loans to sovereigns, and PSEs, of which:   16,843  6,965  35,579  51,800  
+With a risk weight of less than or equal to 35% under the Basel II 
+Standardized Appr oach for credit risk   593 156 1,145  5,832  
+Performing residential mortgages, of which:   470 287 6,299   
+With a risk weight of less than or equal to 35% under the Basel II 
+Standardized Approach for credit risk   470 287 6,299   
+Other loans and securities tha t are not in default and do not qualify as HQLA, 
+including exchange -traded equities and trade finance on -balance sheet products   3,941  3,372  12,522  14,210  
+Interdependent assets   4,618  2,085  34,265  0 
+Other assets   26,297  101 3,945  7,610  
+Physical traded c ommodities     223 190 
+Assets posted as initial margin for derivative contracts and contributions to default 
+funds of CCPs   875 10 90 829 
+NSFR derivative assets    0   0 
+NSFR derivative liabilities before deduction of variation margin posted   18,937    947 
+All other assets not included in the above categories   6,485  91 3,632  5,644  
+Off-balance sheet items   31,715  4,028  39,213  3,272  
+Total RSF      142,516  
+Net Stable Funding Ratio (%)      111",deposit
+Landesbank,"Unweighted value by residual maturity  Weighted 
+value  
+30/09/2022  
+EUR million  No maturity  < 6 months  6 months 
+to < 1yr  ≥ 1yr   
+Available stable funding (ASF) Items       
+Capital items and instruments  13,995    5,207  19,202  
+Own funds  13,995    5,207  19,202  
+Other capital instruments       
+Retail deposits   22,821  75 88 21,345  
+Stable deposits   12,995  16 60 12,421  
+Less stable  deposits   9,825  60 27 8,924  
+Wholesale funding:   148,759  29,923  52,284  100,997  
+Operational deposits   24,858  0 0 4,265  
+Other wholesale funding   123,901  29,923  52,284  96,732  
+Interdependent liabilities   4,388  1,940  34,344  0 
+Other liabilities:   2,927  1 2,906 2,907  
+NSFR derivative liabilities       
+All other liabilities and capital instruments not included in the above categories   2,927  1 2,906  2,907  
+Total available stable funding (ASF)      144,450  
+Required stable funding (RSF) Items  
+Total high -quality liquid assets (HQLA)      7,638  
+Assets encumbered for a residual maturity of one year or more in a cover pool   423 560 18,163  16,274  
+Deposits held at other financial institutions for operational purposes   1 0 0 0 
+Performing loans and securities:   55,419  14,286  81,810  95,328  
+Performing securities financing transactions with financial customers collateralized 
+by Level 1 HQLA subject to 0% haircut   11,992  180 0 327 
+Performing securities financing transactions with financial customer collateralized by 
+other  assets and loans and advances to financial institutions   18,966  6,819  16,753  21,696  
+Performing loans to non - financial corporate clients, loans to retail and small 
+business customers, and loans to sovereigns, and PSEs, of which:   18,646  4,731  32,846  48,112 
+With a risk weight of less than or equal to 35% under the Basel II 
+Standardized Approach for credit risk   724 148 1,000  4,853  
+Performing residential mortgages, of which:   357 179 5,019   
+With a risk weight of less than or equal to 35% under the Basel II 
+Standardized Approach for credit risk   357 179 5,019   
+Other loans and securities that are not in default and do not qualify as HQLA, 
+including exchange -traded equities and trade finance on -balance sheet products   3,295  1,723  15,153  15,487  
+Interdepende nt assets   4,388  1,940  34,344  0 
+Other assets   26,706  244 3,867  7,305  
+Physical traded commodities     295 251 
+Assets posted as initial margin for derivative contracts and contributions to default 
+funds of CCPs   555 138 151 718 
+NSFR derivative assets    0   0 
+NSFR derivative liabilities before deduction of variation margin posted   20,066    1,003  
+All other assets not included in the above categories   6,085  106 3,421  5,333  
+Off-balance sheet items   31,764  2,929  33,593  2,980  
+Total RSF      129,526  
+Net Stabl e Funding Ratio (%)      111",deposit
+Landesbank,"5%  
+      
+Figure 17: EU LIQ2 – Disclosure of net stable funding ratio (NSFR) 30/09/2022
+ 
+ Disclosure report 2022   
+46 
+9 Disclosure of exposures to credit risk 
+and dilution risk and of credit quality 
+(Article 442 CRR)  
+9",credit
+Landesbank,"1 EU CRA - General qualitative information on credit risks (Article 
+435 (1) a -b, d, f CRR)  
+Counterparty risk management  
+Management for limiting the counterparty risk is implemented as an integrated process at LBBW, and can be broken 
+down into the three main componen ts of risk measurement, risk monitoring and reporting as well as risk management:  
+Integration of Berlin Hyp in counterparty risk  
+Berlin Hyp has been integrated into all material aspects of counterparty risk management at LBBW since 1 July 2022",credit
+Landesbank,"Berlin Hyp’ s risk is integrated into the calculation of economic capital at Group level, although counterparty risk (credit 
+value at risk) is currently still determined on the basis of its own risk model",credit
+Landesbank,"These procedures 
+quantify the probability of  default (PD) of the individual investments",investment
+Landesbank,"The rating grades are not only used for internal management purposes 
+but also to measure the regulatory capital requirements",regulatory
+Landesbank,"Loss given default (LGD) is estimated on the basi s of the valuation of 
+the individual items of collateral",loss
+Landesbank,"The add -on calculation takes account of the 
+remaining maturity, product type and market factors (interest, currency etc",interest
+Landesbank,"The capital charges for issuer risks held in the trading  book take account of the settlement payments 
+and actual fair value losses as a result of default (jump -to-default method)",loss
+Landesbank,"Expec ted losses, value adjustments and credit value adjustment  
+The expected loss (EL) – as an indicator that depends on customer creditworthiness, an estimation of the loss at default 
+and the expected exposure at default – provides the basis for the level of th e standard risk costs",loss
+Landesbank,"The concept of 
+expected loss is also used in the calculation of allowances for losses on loans and advance s under IFRS  9: For 
+transactions in which creditworthiness has deteriorated significantly since conclusion, it is the EL over the entire residual  
+term (stage  2), otherwise it is the EL for one year (stage  1)",loss
+Landesbank,"In the case of a special situation (significant  macroeconomic 
+turbulence), the EL is also recognized over the entire residual term (as for the 2022 annual financial statements) for 
+stage 1 transactions in order to adequately account for the higher overall loss risk",loss
+Landesbank,"In the case of specific loan loss 
+provisions (SLLP), the present values of the expected cash flows (including proceeds from the liquidation of collateral) 
+are calculated and allowances for losses on loans and advances are made on the basis of uniform standards applied 
+throughout the Group",loss
+Landesbank,"The market price of the counterparty risk of OTC derivatives accounted for at fair value is measured using the so -called 
+credit value adjustment (CVA)",credit
+Landesbank,"The credit 
+ratings of the cou nterparty and of LBBW are taken into consideration",credit
+Landesbank,"Credit value -at-risk 
+Credit value -at-risk (CVaR) represents the unexpected loss of a portfolio above its expected loss",loss
+Landesbank,"A credit portfolio model 
+that takes the defaults as well as rating migration into ac count is used to calculate this value",credit
+Landesbank,Berlin Hyp has its own economic capital limit credit risk at Group leve l,credit
+Landesbank,"CVaR, RWA and allowances for losses on loans and advances)",loss
+Landesbank,"Credit decisions are made in a system of graded competencies, which are 
+regulated in the Bank’s decision -making system",credit
+Landesbank,"As part of risk monitoring, the risk managers responsible continuously check changes in information of relevance for 
+credit ratings as well as compliance on the basis of systems with the limits granted",credit
+Landesbank,"A system is in place for the early detection of risks, comprising  procedural regulations and system generated signals, 
+whose goal it is to detect any deterioration in credit ratings at an early stage",credit
+Landesbank,"The early detection of any deterioration in credit ratings allows appropriate countermeasures, e",credit
+Landesbank,"LBBW aims to minimize losses through 
+generally successful restructuring activities, in line with the Bank’s own interests and those of its customers",loss
+Landesbank,"Risk management  
+Counterparty risks are managed, in particular, through the requirements of the credit risk strategy, through the economic 
+capital allocation to sub -portfolios with the aid of the CVaR, and by avoiding and reducing concentration ris ks at the level 
+of sectors, countries and individual counterparties",credit
+Landesbank,"A material part  of managing 
+individual transactions involves monitoring compliance with the quantitative and qualitative requirements defined in the 
+ 
+ Disclosure report 2022   
+49 
+credit risk strategy",credit
+Landesbank,"From an economic point of view, the question of whether a transaction will produce an adequate profit on a risk -adjusted 
+basis is a  key consideration before entering into business; for this reason, preliminary costing of all individual 
+transactions is compulsory",profit
+Landesbank,"In addition to the historical interest rate and the bank levy, the components in the preliminary 
+costing comprise cover for  expected loss (risk margin), interest on equity to be held in case of unexpected losses (capital 
+margin) and cover for liquidity and processing costs",loss
+Landesbank,"If  the country credit rating deteriorates, limits 
+are reduced and/or suspended",credit
+Landesbank,"At the business area or sub -business area level, risks are limited through measures to ensure adherence to the  portfolio 
+guidelines of the credit risk strategy with regard to upper limits, rating structures and the portfolio quality, among others ",credit
+Landesbank,"Total portfolio level  
+In the management of the Group’s credit portfolio, the limit in particular for the economic capi tal for counterparty risks 
+based on the CVaR is allocated to the sectors",credit
+Landesbank,"For further disclosures pursuant to Article 435 CRR on credit risks, please refer to section 3",credit
+Landesbank,"2 EU CRB - Additional disclosure in connection with the credit 
+quality of asset s (Article 442 a -b CRR)  
+Non-performing exposures and loans  
+Overview  
+Definitions  
+An exposure is considered a non-performing exposure  if it is unlikely that the obligor will meet its commitments without 
+realizing the collateral (unlikely to pay) or if the ke y exposure is more than 90 days past due",credit
+Landesbank,"permanent loss of salary in the case of private 
+customers)",loss
+Landesbank,"• The borrower breached the terms of a loan agreement, where these breaches are to be considered material in terms 
+of the credit rating and result in doubts regard ing full debt servicing",credit
+Landesbank,"• The bank has requested (additional) collateral (including a warranty or guarantee) because the credit rating has 
+deteriorated",credit
+Landesbank,• No impairment loss is recognized because the exposure is collateralized in full,loss
+Landesbank,• Sale of a financial asset at a considerable discount due to a deterioration in the oblig or’s credit rating,credit
+Landesbank,"• If the repayment of an obligation is suspended because a law allows this option or because of other legal restrictions, 
+the reasons for exercising the option to suspend thi s repayment should be analyzed where possible",restrictions
+Landesbank,"credit register, macroeconomic indicators or public sources of information), 
+potential indications of “unlikely to pay” include:  
+• The credit register records significant delays in payments to other creditors",credit
+Landesbank,"An exposure shall be deemed to be defaulted in the sense of the regulatory definition in Article 178 CRR in conjunction 
+with EBA (GL) 2016/07 when at least one o f the following events has taken place:  
+• There has been a default in payment/overdraft of > 90 days  
+• The entirety of liabilities are 90 days past due if these have been significantly overdrawn for more than 90 consecutive 
+calendar days",regulatory
+Landesbank,"An overdraft is when the loan drawn on 
+a day exceeds the underlying liability",liability
+Landesbank,"• There is unlikeliness to pay (doubts about obligor’s creditworthiness)  
+Unlikely to pay is when the bank believes that the obligor is very unlikely to meet its  loan commitments in full",credit
+Landesbank,"• There is unlikeliness to pay due to transfer  
+The defaulting of obligors with a joint liability results in the default of individual obligors who have not already 
+defaulted",liability
+Landesbank,"In addition, if all individual obligors default, this re sults in the default of obligors with a joint liability who have 
+not already defaulted",liability
+Landesbank,"• The exposure has been rescheduled/restructured  
+The aim of crisis -led, unavoidable and loss -making restructuring or rescheduling is to bring about a cure of the 
+customer  or individual exposures",loss
+Landesbank,"• There has been a sale of the credit obligation  
+Under a sale of a credit obligation, it is sold at a considerable economic loss due to the credit rating",loss
+Landesbank,"• The obligor has filed for bankruptcy  
+Obligors file for bankruptcy or bankruptcy proceedings are instigated within the meaning of collective enforcement 
+under the control of a state authority to ensure th at all creditors’ claims are equally satisfied regarding their 
+outstanding receivables",credit
+Landesbank,"• Impairment is recognized  
+A partial writ e-down is carried out or impairment is recognized as a loan loss provision for potential future losses from 
+the credit exposure due to the credit rating if it is to be assumed that an exposure or part of an exposure is 
+uncollectible",loss
+Landesbank,"An exposure is deemed to be restructured  if the aim of this crisis -led, unavoidable and loss -making 
+restructuring/rescheduling is to bring about a cure of the customer or individual exposures",loss
+Landesbank,"The following 
+concessions/forbearance measur es result in a restructuring:  
+• Changes in contractual terms and conditions or full or partial rescheduling that would not have been awarded to the 
+obligor if not for financial difficulties  
+• The contractual terms and conditions are more favorable than for oth er obligors with a similar risk profile in the 
+institution  
+• Utilization of options to amend the contractual terms and conditions by the obligor, if the institution agrees to the 
+application of these clauses and concludes that the obligor is in financial dif ficulties  
+• Rescheduling: Recourse to debt contracts to ensure the full or partial repayment of other debt contracts that the 
+obligor cannot fulfill  
+Concessions by the bank that are justified by the obligor’s financial difficulties can, as a UTP indicator, l ead to a credit 
+default within the regulatory definition and represent objective evidence of impairment",credit
+Landesbank,"Disclosure report 2022   
+52 
+A risk exposure is considered impaired  when there is objective evidence of impairment and when a stage 3 impairment 
+loss has been recognized in accordance with the accounting provisions in place at LBBW (IFRS)",loss
+Landesbank,"A more in -depth 
+explanation of the provisions and methods and a detailed description of what co nstitutes objective evidence of 
+impairment under IFRS 9 are provided in the next section “Credit risk adjustments”",credit
+Landesbank,"Credit risk adjustments  
+Methods of loan loss provisioning  
+LBBW has been applying the IFRS 9 (Financial Instruments) standard, in the version adopted by the European Union, 
+since 1  January  2018",loss
+Landesbank,"The provisions also apply to lease receivables and off -balance -sheet transactions such as sureties, financial guarantees 
+and loan commitmen ts, where these are not measured at fair value through profit or loss (FVR)",profit
+Landesbank,"They do not apply to financial instruments that do not meet the cash flow criteria and equity instruments that must be 
+measured at fair value through profit or loss (FVR) under I FRS 9 or financial instruments that are voluntarily designated 
+for measurement at fair value through profit or loss (FVO)",profit
+Landesbank,The introduction of IFRS  9 replaced the incurred loss model with an expected loss model,loss
+Landesbank,"Under this model, financial 
+instruments are  allocated to one of three loan loss provision stages:  
+• Stage 1: Impairment losses included at the amount of the expected losses resulting from potential loss events in the 
+next twelve months",loss
+Landesbank,• Stage 2: Impairment losses equal to the expected losses over the entire remaining term of the financial instrument,loss
+Landesbank,"• Stage 3: Impairment losses of financial instruments with objective evidence of impairment, where the amount of the 
+impairment loss is calculated as the difference between the financial instrument’s  gross carrying amount and the 
+present value of the estimated cash flows",loss
+Landesbank,"a sharp hike in energy prices or abrupt interest rate rise), the effects of which 
+on financial instruments’ credit rating cannot be specifically and individually determined, does not immediately trigger a 
+stage transfer",interest
+Landesbank,"To adequately acc ount for the higher overall loss risk, in these special situations impairment losses for 
+stage 1 assets affected are also determined on the basis of expected credit losses over their entire residual term (as for 
+the 2022 annual financial statements)",loss
+Landesbank,"Provi sions for stage allocation  
+Assessing whether an impairment loss is measured on the basis of the expected loss over twelve months (stage 1) or 
+over the remaining term of a financial instrument (stage 2) is based on three criteria (transfer criteria):  
+• Quant itative transfer criterion: First, the expected probability of default at the end of the reporting period is calculated 
+using the initial rating and expected migrations specific to the segment",loss
+Landesbank,"In thes e cases, the impairment loss is always measured using the expected loss 
+over twelve months",loss
+Landesbank,"Disclosure report 2022   
+53 
+• “Warning signal” criterion: In the event of certain warning signals, the impairment loss of a receivable is always 
+measured using the expected credit loss over the remaining term",loss
+Landesbank,"If this falls under 
+“investment grade”, it is allocated to stage 1",investment
+Landesbank,"In all other cases, the securities are allocated to stage 2 and the impairmen t 
+loss measured using the ex pected loss over the remaining term",loss
+Landesbank,"The definition of “investment grade” is based on 
+international standards",investment
+Landesbank,These a re known as “Purchased or originated credit -impaired (POCI) financial instruments”,credit
+Landesbank,"In this case, impairment loss is 
+always measured using the life -time expected credit losses o f the financial instrument, even when recovery is expected 
+or actually occurs",loss
+Landesbank,"default in payme nt  
+• Concessions by the bank due to financial difficulties experienced by the obligor that would not have been granted if 
+not for the financial difficulties  
+• Insolvency or restructuring of the obligor’s funds is likely  
+• Financial difficulties experienced by  the obligor cause the loss of an active market for the financial instrument  
+• A financial instrument is acquired or issued at significantly below its nominal value due to loan losses  
+At LBBW, the definition for accounting purposes is based on the regulator y definition of default",loss
+Landesbank,"An exposure shall be 
+deemed to be defaulted in the sense of the regulatory definition in Article 178 CRR when at least one of the following 
+events has taken place:  
+• There has been a default in payment/overdraft of > 90 days  
+• There is  unlikeliness to pay (doubts about obligor’s creditworthiness)  
+• There is unlikeliness to pay due to transfer  
+• Impairment is recognized  
+• The exposure has been rescheduled/restructured  
+• There has been a sale of the credit obligation  
+• It has been called/repaid  
+• The obligor has filed for bankruptcy  
+• The exposure has been fully written off  
+If the conditions for measuring the impairment loss over the remaining term of a financial instrument (stages 2 and 3) are 
+no longer met, an impairment loss is measured on the basis  of the expected loss over twelve months (stage 1)",loss
+Landesbank,"Determining the impairment loss  
+For financial assets allocated to stages 1 and 2 or measured on the basis of parameters under stage 3, the expected 
+credit loss is calculated based on the probability of de fault (PD), the estimated loss given default (LGD) and the expected 
+exposure at default (EaD)",loss
+Landesbank,"For 
+calculating the expected loss over the entire term, the parameters are standardized at the remaining term of the financial 
+asset",loss
+Landesbank,"Regardless of the remaining term, expected credit losses (calculated as the product of the three parameters already 
+described) are discounted to the end of the reporting period using the effective  interest rate of the financial instrument or 
+an approximation of this rate",loss
+Landesbank,"This does not apply to significant financial assets which already show credit -impairment at 
+initial recognition",credit
+Landesbank,"In this case, the effective interest rate is adjusted by taking in to account the life -time expected credit 
+ 
+ Disclosure report 2022   
+54 
+losses, with the result that no further allowances for losses on loans and securities are reported on initial recognition",loss
+Landesbank,"Th e 
+credit -adjusted effective interest rate resulting from this is used for subsequent measu rement",interest
+Landesbank,"These procedures 
+quantify the probability of default of the individual investments, which is  initially standardized to twelve months",investment
+Landesbank,"In addition, the regulatory rating for the bank’s core areas of 
+business corporate customers and real estate financing in Germany is also adjusted for expected economic effects 
+using macroeconomic models",regulatory
+Landesbank,"• LGD (“Loss given default”)  
+The loss given default is determined largely by the likelihood of recovery and the level of collateralization for the 
+underlying asset",loss
+Landesbank,"The level of collateralization is the ratio of projected realization revenue for the collateral and the 
+expected exposure at default",revenue
+Landesbank,"In addition, multi -year loss rates for defaults are determined using 
+collateral va lue models and EaD forecasts for each potential default date for the obligor",loss
+Landesbank,"A performance -based term that extends 
+beyond the notice period is estimated on the  basis of historic data only for overdrafts and credit cards",credit
+Landesbank,"Model inputs 
+include structural transaction and customer properties, the duration until default and the past drawdown pattern of the 
+credit facility",credit
+Landesbank,"The amount at risk for these transactions is calculated by 
+means of a credit conversion factor (CCF)",credit
+Landesbank,A stage 3 impairment loss is de termined individually for significant receivables in contrast to stage 3 (parameter -based),loss
+Landesbank,"The impairment requirement is calculated as the difference 
+between the carrying amount of the asset and the n et present value of the sum of all expected future cash flows 
+(including proceeds from the sale of collateral), which are discounted by the original effective interest rate determined at 
+the date of acquisition",interest
+Landesbank,"Cash flows estimated to determine the need f or allowances for losses on loans and advances are 
+to be calculated using various scenarios (going concern excluding or adjusted for debt capital and gone concern) and 
+analyst estimates weighted by probability",loss
+Landesbank,"Depreciation, amortization and write -downs  
+A financial instrument is to be written down directly in the event of an actual or only partial default or loss",loss
+Landesbank,"This is the case, for example, with:  
+• insolvency, when no further proceeds from the liquidation of collateral or an insolvency ratio are expected,  
+• terminated exposures where the residual receivables cannot be settled,  
+• full or partial debt waiver,  
+• sale of receivable at a loss and  
+• private customers who pay small installments on a high outstanding receivable after disposing of the collateral 
+because it is assumed that the customers will not be able to repay the claim fully within the two -year period",loss
+Landesbank,"Reversal of impairment losses  
+A financial instrument is deemed to be impaired when there is objective evidence of  impairment",loss
+Landesbank,"If there is a reduction in 
+the impairment requirement or if objective evidence of impairment for a receivable ceases to exist, the existing allowance 
+for losses on loans and advances must be reversed through profit or loss",profit
+Landesbank,"However, the revers al of the impairment loss 
+must not exceed the carrying amount that the receivable would have had if it had not been impaired",loss
+Landesbank,"3 Performing and non -performing exposures and related provisions  
+(Article 442  c, e CRR)  
+                
+ Gross carrying amount/nominal amount  Accumulated impairment, accumulated negative changes in fair value due to credit risk and provisions   Collaterals and financial 
+guara ntees received  
+ Performing exposures  Non-performing exposures  Performing exposures - Accumulated impairment 
+and provisions  Non-performing exposures – Accumulated 
+impairment, accumulated negative changes in fair 
+value due to credit risk and provisions  Accu mulated 
+partial write -
+off On performing 
+exposures  On non -
+performing 
+exposures  
+EUR million   of which: 
+stage 1  of which: 
+stage 2   of which: 
+stage 2  of which: 
+stage 3   of which: 
+stage 1  of which: 
+stage 2   of which: 
+stage 2  of which: 
+stage 3     
+Cash balances  at central banks and other 
+demand deposits  48,665  48,628  37    -0 -0 -0       
+Loans and advances  191,992  171,084  18,933  1,362  1 1,243  -829 -503 -327 -609 -0 -600 -235 75,539  427 
+Central banks  213 213              
+General governments  9,585  8,767  8 0  0 -10 -10 -0 -0  -0  412 0 
+Credit institutions  42,858  42,552  259 48  48 -23 -22 -2 -45  -45  614  
+Other financial corporations  23,463  21,726  667 95  7 -57 -48 -9 -1  -1 -4 9,764  93 
+Non-financial corporations  103,712  87,762  15,913  1,164   1,134  -672 -382 -290 -539  -531 -213 57,783  319 
+Of which: SMEs  34,472  29,163  5,308  294  283 -173 -130 -43 -116  -111 -0 27,359  148 
+Households  12,161  10,064  2,087  55 1 54 -68 -41 -26 -23 -0 -23 -17 6,967  15 
+Debt securities  34,667  34,548  79 6  6 -10 -8 -1 -6  -6    
+Centra l banks  457 457     -0 -0        
+General governments  5,573  5,476  79    -3 -1 -1       
+Credit institutions  24,529  24,529      -6 -6        
+Other financial corporations  3,811  3,789      -1 -1        
+Non-financial corporations  297 297  6  6 -0 -0  -6  -6    
+Off-balance sheet exposures  83,031  67,923  5,870  207 16 98 -250 -188 -62 -77 -0 -39  3,258  20 
+Central banks  0 0     -0 -0        
+General governments  2,866  2,735  1    -0 -0 -0     308  
+Credit institutions  10,011  9,057  5 1   -2 -2 -0 -1    6  
+Other fina ncial corporations  10,060  8,828  235 0  0 -7 -7 -0     458  
+Non-financial corporations  56,380  44,159  5,073  205 16 97 -237 -177 -60 -76  -39  2,443  20 
+Households  3,713  3,144  557 1 0 0 -3 -1 -2 -0 -0   43  
+Total  358,355  322,183  24,920  1,575  17 1,347  -1,089  -699 -391 -692 -0 -645 -235 78,797  447 
+                
+Figure 18: EU CR1 – Performing and non -performing exposures and related provisions
+ 
+ Disclosure report 2022   
+57 
+9",deposit
+Landesbank,"5 Changes in the stock of non -performing loans and advan ces 
+(Article 442  f CRR)  
+The following table shows the stock of non -performing loans and advances as at 31 December 2022 in accordance with 
+FINREP",stock
+Landesbank,"EUR million  Gross carrying amount  
+Initial stock of non -performing loans and advances  1,183  
+Inflows to non -performing portfolios  368 
+Outflows from non -performing port folios  -189 
+Outflows due to write -offs -3 
+Outflow due to Other Situations  -186 
+Final stock of non -performing loans and advances  1,362  
+  
+Figure 20: EU CR2 – Changes in the stock of non -performing loans and advances  
+Disclosur e of template EU CR2a – Changes in the stock of non -performing loans and advances and related net 
+accumulated recoveries  is not relevant for LBBW, as LBBW’s NPL ratio is currently below 5%",stock
+Landesbank,"6 Credit quality of forborne exposures (Article 442 c CRR)  
+         
+ Gross carrying amount/nominal amount of exposures with forbearance 
+measures  Accumulated impairment, 
+accumulated negative changes in fair 
+value due to credit risk and 
+provisions  Collateral received and financial 
+guarantees received on forborne 
+exposur es 
+  Non-performing forborne      
+EUR million  Performing 
+forborne   Of which 
+defaulted  Of which 
+impaired  On performing 
+forborne 
+exposures  On non -
+performing 
+forborne 
+exposures   Of which: 
+Collateral and 
+financial 
+guarantees 
+received on non -
+performing 
+exposur es with 
+forbearance 
+measures  
+Cash balances at central banks and 
+other demand deposits  0 0 0 0 0 0 0 0 
+Loans and advances  1,068  494 492 490 -8 -218 778 154 
+Central banks  0 0 0 0 0 0 0 0 
+General governments  0 0 0 0 0 0 0 0 
+Credit institutions  0 8 8 8 0 -7 0 0 
+Other financial corporations  0 6 6 6 0 -1 5 5 
+Non-financial corporations  1,064  474 474 472 -7 -208 768 147 
+Households  4 6 4 4 0 -2 4 2 
+Debt securities  0 0 0 0 0 0 0 0 
+Loan commitments given  20 23 23 23 -2 -7 0 0 
+Total  1,089  517 515 513 -10 -225 778 154 
+         
+Figure 21: EU CQ1 – Credit quality of forborne exposures  
+Disclosure of template EU CQ2 – Quality of forbearance is  not relevant for LBBW, as LBBW’s NPL ratio is currently 
+below 5%",deposit
+Landesbank,"7 Credit quality of pe rforming and non -performing exposures by 
+past due days (Article 442 d CRR)  
+             
+ Gross carrying amount/nominal amount  
+ Performing exposures  Non-performing exposures  
+EUR million   Not past 
+due or Past 
+due ≤ 30 
+days  Past due > 
+30 days ≤ 
+90 days   Unlikely to 
+pay that are 
+not past due 
+or past due 
+<= 90  days Past due > 
+90 days ≤ 
+180 days  Past due > 
+180 days ≤ 
+1 year  Past due > 
+1 year ≤ 2 
+years  Past due > 
+2 years ≤ 
+5 years  Past due > 
+5 years ≤ 
+7 years  Past due > 
+7 years  Of which 
+defaulted  
+Cash balances  at central 
+banks and other 
+demand deposits  48,665  48,665  0 0 0 0 0 0 0 0 0 0 
+Loans and advances  191,992  191,624  368 1,362  965 21 193 37 87 12 47 1,361  
+Central banks  213 213 0 0 0 0 0 0 0 0 0 0 
+General governments  9,585  9,583  2 0 0 0 0 0 0 0 0 0 
+Credit  institutions  42,858  42,854  3 48 27 0 21 0 0 0 0 48 
+Other financial 
+corporations  23,463  23,454  8 95 16 0 76 0 0 0 3 95 
+Non-financial 
+corporations  103,712  103,365  347 1,164  900 19 92 34 80 10 28 1,164  
+Of which: SMEs  34,472  34,255  217 294 250 14 9 11 7 1 1 294 
+Households  12,161  12,154  7 55 22 3 4 3 6 2 16 54 
+Debt securities  34,667  34,667  0 6 0 0 0 0 6 0 0 6 
+Central banks  457 457 0 0 0 0 0 0 0 0 0 0 
+General governments  5,573  5,573  0 0 0 0 0 0 0 0 0 0 
+Credit institutions  24,529  24,529  0 0 0 0 0 0 0 0 0 0 
+Other financial 
+corporations  3,811  3,811  0 0 0 0 0 0 0 0 0 0 
+Non-financial 
+corporations  297 297 0 6 0 0 0 0 6 0 0 6 
+Off-balance sheet 
+exposures  83,031    207        191 
+Central banks  0   0        0 
+General governments  2,866    0        0 
+Credit insti tutions  10,011    1        1 
+Other financial 
+corporations  10,060    0        0 
+Non-financial 
+corporations  56,380    205        189 
+Households  3,713    1        0 
+Total  358,355  274,956  368 1,575  965 21 193 37 93 12 47 1,558  
+             
+Figure 22: EU CQ3 – Credit quality of performing and non -performing exposures by past due days  
+  
+ 
+ Disclosure report 2022   
+60 
+9",deposit
+Landesbank,"EUR million  Gross 
+carrying/nominal 
+amount  of which: non -
+performing and 
+defaulted  Accumulated 
+impairment  Provisions on off -
+balance sheet 
+commitments and 
+financial 
+guarantees given  Accumulated 
+negative changes 
+in fair value  due to 
+credit risk on non -
+performing 
+exposures  
+On balance sheet exposures  228,027  1,367  -1,449   -5 
+Germany  120,269  931 -1,063   -5 
+USA 22,304  163 -124   
+United Kingdom  15,872  0 -25   
+France  11,384  16 -37   
+Luxembourg  8,254  85 -14   
+Netherlands  7,851  8 -35   
+Canada  5,416  0 -8   
+Singapore  3,173  0 0   
+Austria  3,156  13 -8   
+Poland  2,655  3 -13   
+Republic of Korea  2,183   0   
+Norway  2,091   -1   
+Australia  1,894   0   
+Switzerland  1,754  1 -3   
+Sweden  1,615   -1   
+Others/supranational organizations  18,156 147 -115   
+Off-balance sheet exposures  83,238  191  -327  
+Germany  61,097  182  -282  
+France  3,715  0  -2  
+Ireland  3,597    0  
+Switzerland  2,315    -5  
+USA 2,257    -12  
+Austria  1,964  7  -7  
+Netherlands  1,535    -12  
+Luxembourg  674   -1  
+Singapore  545   0  
+Republic of Korea  520   0  
+Others/supranational organizations  5,019  2  -5  
+Total  311,265  1,558  -1,449  -327 -5 
+      
+Figure 23: EU CQ4 – Quality of non -performing exposures by geography  
+  
+ 
+ Disclosure report 2022   
+61 
+9",credit
+Landesbank,"9 Credit quality of loans an d advances to non -financial 
+corporations by industry (Article 442 c, e CRR)  
+In the following table, the loans and advances to non -financial corporations are grouped by industry using the NACE 
+code on the basis of the principal activity of the business part ner",credit
+Landesbank,"Disclosure of columns b (Gross carrying amount – of which non -performing) and d (Gross carrying amount – of which 
+loans and advances subject to impairment) of the following template EU CQ5 – Credit quality of loans and advances to 
+non-financial corpo rations by industry  is not relevant for LBBW, as LBBW’s NPL ratio is currently below 5%",credit
+Landesbank,"EUR million  
+Industry sector  Gross carrying amount  of which: non -
+performing and 
+defaulted  Accumulated 
+impairment  Accumulated negative 
+changes in fair value 
+due t o credit risk on 
+non-performing 
+exposures  
+Agriculture, forestry and fishing  115 5 -1 0 
+Mining and quarrying  448 0 -3 0 
+Manufacturing  16,143  523 -441 -5 
+Electricity, gas, steam and air conditioning supply  6,410  35 -76 0 
+Water supply  2,365  1 -2 0 
+Const ruction  2,188  24 -24 0 
+Wholesale and retail trade  5,983  139 -115 0 
+Transport and storage  3,042  26 -28 0 
+Accommodation and food service activities  109 1 -1 0 
+Information and communication  2,645  5 -26 0 
+Real estate activities  50,616  212 -270 0 
+Financi al and insurance activities  0 0 0 0 
+Professional, scientific and technical activities  7,432  99 -109 0 
+Administrative and support service activities  4,711  52 -71 0 
+Public administration and defense, compulsory 
+social security  0 0 0 0 
+Education  239 0 -3 0 
+Human health services and social work activities  1,240  38 -29 0 
+Arts, entertainment and recreation  343 1 -2 0 
+Other services  846 2 -5 0 
+Total  104,876  1,164  -1,206  -5 
+     
+Figure 24: EU CQ5 – Credit quality of loans and a dvances to non -financial corporations by industry  
+The increase in gross carrying amount in the “Real estate activities” sector primarily reflects the acquisition of Berlin Hyp ",credit
+Landesbank,"Disclosure report 2022   
+62 
+10 Disclosure of the use of credit risk 
+mitigation techniques  
+(Article 453 a -f CRR)  
+10",credit
+Landesbank,"1 Qual itative disclosure requirements in connection with credit 
+risk mitigation techniques (Article 453 a -e CRR)  
+Main types of collateral  
+Lending business  
+Registered liens, guarantees, financial assets and credit derivatives are recognized as risk -mitigating",credit
+Landesbank,"• Guarantees/warranties from dome stic and foreign local authorities, banks and corporates, as well as guarantees 
+mainly from government export credit insurers",credit
+Landesbank,"• Financial collateral: This includes  
+• pledging of balances with banks, building and loan associations, and insurance companies  
+• assignment of entitlements from endowment and capital -yield pension policies, provided they have the option of 
+one-off payment  
+• pledging of deposits with a daily revaluation based on closing prices of recognized stock exchanges",deposit
+Landesbank,"Capital Markets Business  
+In add ition to traditional collateral in lending business, LBBW also utilizes various hedging instruments to mitigate risk in 
+trading and capital markets business for regulatory purposes",regulatory
+Landesbank,"As at 31 December 2022, no credit derivatives were used 
+in the non -trading  book as part of the credit risk mitigation techniques",credit
+Landesbank,"The following types of collateral are primarily 
+used:  
+• Financial collateral (securities, cash collateral)  
+• Eligible guarantees  
+• Netting agreements for derivatives plus collateral agreements (in accord ance with chapter 14, disclosure of 
+counterparty  credit risk)  
+The main hedging instruments used by LBBW are also employed for regulatory purposes as they satisfy the 
+requirements of eligible credit risk mitigation techniques",credit
+Landesbank,"The LBBW subsidiaries do not use any credit risk mitigation 
+techniques going beyond those of LBBW (Bank)",credit
+Landesbank,"Credit derivatives  
+ Credit derivatives can be eligible as unfunded credit protection and be recognized as an eligible form of credit risk 
+mitigation",credit
+Landesbank,"The relevant credit derivativ es include the following pursuant to Article 204 (1) CRR:  
+• Credit default swaps  
+• Total return swaps  
+• Credit linked notes (CLN) to the extent of their cash funding  
+ 
+ Disclosure report 2022   
+63 
+• Instruments that may be composed of such credit derivatives or that are economically effectively  similar  
+CRR gives a comprehensive list of all eligible guarantors allowed to provide guarantees as unfunded credit protection",swap
+Landesbank,"The process for recognizing a credit derivative as credit protection is documented in 
+the relevant internal rules",credit
+Landesbank,The guarantors (counterparties) and their default risk/creditworthiness are monitored,credit
+Landesbank,There are defined procedures to ensure that the risk transfer of the credit derivative is effective,credit
+Landesbank,"As at the present 
+reporting date, LBBW does not recogniz e any credit derivatives as credit risk mitigating",credit
+Landesbank,"Disclosure report 2022   
+64 
+Management of concentration risks in the credit and collateral 
+portfolio  
+In measuring the risk arising from collateral, LBBW distinguishes between collateral in lending business and collateral in 
+capital market s business",credit
+Landesbank,"95%) in EUR 
+(95%) and USD (5%) and first -class sovereign bonds, country bonds and corporate bonds (primarily EU)",bonds
+Landesbank,"2 CRM techniques overview: Disclosure of the use of credit risk 
+mitiga tion techniques  
+(Article 453 a -f CRR)  
+The following table shows secured and unsecured exposures for exposures not including counterparty credit risk, as well 
+as the collateral, financial guarantees and derivatives used for credit risk mitigation",credit
+Landesbank,"EUR million  Unsecured 
+carrying amount  Secured carrying 
+amount  Of which secured 
+by collateral  Of which secured 
+by financial 
+guarantees  Of which secured 
+by credit 
+derivatives  
+Loans and advances  166,053  75,966  65,825  10,141  0 
+Debt securities  34,674  0 0 0  
+Total  200,726  75,966  65,825  10,141  0 
+Of which non -performing exposures  942 427 285 142 0 
+Of which defaulted  942 426    
+      
+Figure 25: EU CR3 – CRM techniques overview: Disclosure of the use of credit risk mitigation techni ques  
+The change in the unsecured carrying amounts as against the previous period is primarily due to the decline in on -
+demand or current receivables (essentially cash balances at central banks)",credit
+Landesbank,"1 Qualitative disclosure requirements in connection with the 
+standardized approach (Article 444 a -d CRR)  
+External credit rating assessments from the f ollowing ratings agencies are applied to calculate regulatory capital 
+requirements under the credit risk standardized approach:  
+• Standard & Poor’s Ratings Services  
+• Moody’s Investors Service  
+• Fitch Ratings Ltd",credit
+Landesbank,"Where a credit assessment exists for the item constituting an exposure in CRSA, it is used to determine the risk weight 
+to be assigned to the item (Article 139 (1) CRR)",credit
+Landesbank,"Where no such rating exists, the risk is weighted u sing the credit 
+assessment for a comparable exposure or using a general credit assessment for the issuer (Article 139 (2) CRR)",credit
+Landesbank,"Comparable exposures are exposures which must be met by the same obligor of the CRSA exposure and for which a 
+credit assessment exists for a specific issuing program",credit
+Landesbank,"At LBBW, possible further (comparable) exposures to the same obligor with an issuer or issue credit assessment are 
+calculated automatically using customer -related information",credit
+Landesbank,"LBBW uses the allocation prescribed by the EBA pursuant to CRR when mapping the credit assessments of external 
+credit assessment insti tutions with the credit quality steps under the Standardized Approach",credit
+Landesbank,"2 Standardized approach – Credit risk exposure and CRM effects (Articles 444 e, 453 g -i CRR)  
+The following table shows exposures to be reported before and after credit conversion fac tor and credit risk mitigation as well as RWA and RWA density",credit
+Landesbank,"RWA density is the ratio of 
+risk-weighted assets to exposures after taking into account credit conversion factors and credit risk mitigation",credit
+Landesbank,"00  
+Covered bonds  398  398    
+Institutions and corporates with a short -term credit assessment   0     
+Collective investment undertakings  29 1 29 1 74 246",investment
+Landesbank,"20  
+Equity        
+Other items  69  69  57 82",equity
+Landesbank,"49 
+       
+Figure 26: EU CR4 – standardized approach – Credit risk exposure and CRM effects  
+ 
+ Disclosure report 2022   
+67 
+11",credit
+Landesbank,"3 Standardized approach (Article 444 e CRR)  
+                  
+ Risk weight    
+EUR million  
+Exposure classes  0% 2% 4% 10% 20% 35% 50% 70% 75% 100%  150%  250%  370%  1250%  Other  Total  Of 
+which 
+unrated  
+Central governments or central banks  495               495 155 
+Regional government or local authorities  2,748     7           2,755  752 
+Public sector entities  508    375  0   0      883 18 
+Multilateral development banks                   
+International organizations  403               403  
+Institutions  34,982     393  103   2    0  35,481  34,214  
+Corporates  526    1,690  106 709 212  4,776     6  8,025  4,631  
+Retail exposures          5,980        5,980  4,950  
+Secured by mortgages on immovable property       4,398  269         4,667  4,361  
+Exposures in default           30 38     68 46 
+Exposures associated with particularly high risk            2     2 2 
+Covered bonds  398               398 12 
+Institutions and corporates with a short -term credit 
+assessment                   
+Unit or shares in collective investment undertakings               4 27 31 20 
+Equity                  0 
+Other items  12         57      69 1 
+Total  40,072     2,465  4,505  1,081  212 5,980  4,866  40   10 27 59,258  49,162  
+                  
+Figure 27: EU CR5 – standardized approach
+ 
+ Disclosure report 2022   
+68 
+12 Disclosure of the use of the IRB 
+approach to credit risk  
+(Articles 438, 452, 453 g -j CRR)  
+12",investment
+Landesbank,"Regulatory capital backing is based on the following rating systems 
+in line with the IRB approach:  
+• Banks (LBBW, Berlin Hyp)  
+• Country and transfer risks (LBBW, Berlin Hyp)  
+• Corporates (LBBW, Berlin Hyp)  
+• International real e state finance (LBBW, Berlin Hyp)  
+• Sparkassen -ImmobiliengeschäftsRating (LBBW, Berlin Hyp)  
+• Insurance companies (LBBW)  
+• Project finance (LBBW)  
+• DSGV -Haftungsverbund (LBBW)  
+• Sparkassen -StandardRating (LBBW)  
+• Leasing (LBBW)  
+• Leveraged finance (LBBW)  
+• Aircraft finance  (LBBW)  
+• International administrative authorities (LBBW)  
+• Funds (LBBW)  
+With the inclusion of Berlin Hyp in LBBW’s Group of institutions (from 1  July 2022), LBBW’s approval to use the IRB 
+approach at Group level does not yet extend to Berlin Hyp’s IRB model",funds
+Landesbank,"To acquire the required approval, LBBW follows 
+a return to compliance plan in accordance with Article  146 CRR to meet all regulatory requirements for use of the IRB 
+approach within the expanded Group of institutions",regulatory
+Landesbank,"Based on this plan, in accordance with an ECB resolution LBBW 
+was granted temporary approval to use Berlin Hyp’s rating systems to calculate own funds requirements at Group level 
+for the time being",funds
+Landesbank,"In addition, at LBBW, mandatory treatment of positions in IRB takes the form of applying fixed risk weights for specialized 
+lending that is not covered by one of the approved rating systems for specialized lending listed above, as well as at 
+LBBW, Berlin Hyp and all other subsidiaries for equity exposures and other non -credit obligation assets",equity
+Landesbank,"The CRSA is used for all other portfolios of LBBW (Bank), Berlin Hyp and all other companies included in the regulatory 
+scope of consolidation of the LBBW Group",regulatory
+Landesbank,"These procedures involve the measurement of 
+quantitative and qualitative factors in the light of liability relationships",liability
+Landesbank,inc lusion of interest and exchange rates) where relevant,interest
+Landesbank,"Business line  Subgroup  Rating/assessment procedures  Methodology  
+Private and investment customers  Private customers with main  cash flow from 
+renting and leasing  Non-accounting customers in Sparkassen 
+ImmobiliengeschäftsRating  Scorecard -based rating procedure  
+Corporate Customers  Basic customers  Sparkassen StandardRating plus customer 
+compact rating (CCR)  Scorecard -based rating p rocedure  
+ Business customers  Sparkassen StandardRating plus customer 
+compact rating (CCR)  Scorecard -based rating procedure  
+ Corporate Customers  Sparkassen StandardRating plus customer 
+compact rating (CCR)  Scorecard -based rating procedure  
+ Start -ups Spar kassen StandardRating plus customer 
+compact rating (CCR)  Scorecard -based rating procedure  
+ Leasing customers  Rating of leasing customers  Scorecard -based rating procedure  
+ Corporate customers/key accounts  Rating for corporates  Scorecard -based rating proce dure 
+Project and specialized lending 
+exposures  National commercial real estate  Sparkassen ImmobiliengeschäftsRating  Simulation -based rating procedure  
+ International commercial real estate  Rating for international commercial real 
+estate (ICRE)  Simulation -based rating procedure  
+  Where applicable slotting criteria approach  Slotting criteria  
+ Open -end real estate funds  SparkassenImmobiliengeschäftsRating  Scorecard -based rating procedure  
+ Aircraft finance  Airlines: rating for corporates  Scorecard -based rat ing procedure  
+  SPC: rating for aircraft finance  Simulation -based rating procedure  
+  Where applicable slotting criteria approach  Slotting criteria  
+ Other project finance  Rating for project finance  Simulation -based rating procedure  
+  Where applicable sl otting criteria approach  Slotting criteria  
+ SPC real estate leasing  Rating for leasing refinancing  Simulation -based rating procedure  
+ Leveraged finance  Rating for leveraged finance  Scorecard -based rating procedure  
+Wholesale  Banks  Rating for banks  Scorec ard-based rating procedure  
+  Rating for DSGV -Haftungsverbund  Simulation -based rating procedure  
+ Insurance companies  Rating for insurance companies  Scorecard -based rating procedure  
+ Leasing companies  Rating for leasing companies  Scorecard -based rating pr ocedure  
+ National (German) administrative 
+authorities/public -sector loans  Rating inheritance  n/a 
+ International administrative authorities  Rating for international administrative 
+authorities  Scorecard -based rating procedure  
+ Municipal corporations  Spark assen StandardRating  Scorecard -based rating procedure  
+  Corporates rating  Scorecard -based rating procedure  
+ Sovereigns & transfer risks  Rating for country and transfer risks  Scorecard -based rating procedure  
+ Funds  Rating procedure for funds  Scorecard -based rating procedure  
+    
+ 
+ 
+All rating procedures result in a one -year probability of default in local currency (local currency PD)",investment
+Landesbank,"Ratings  LBBW rating master scale  Probability of default (%)  
+Investment grade  1(AAAA)  0",investment
+Landesbank,"00  
+   
+Control  mechanisms and functions for rating systems (Article 452 c) – e) CRR)  
+Within LBBW and Berlin Hyp, the units or functions below are responsible for the IRB rating systems:  
+• Credit risk control unit  
+• Validation unit  
+• Risk management  
+• Internal Audit  
+The departm ents or groups that perform these functions are independent of each other at both banks through 
+organizational separation and separately accountable for the performance of their regulatory tasks",credit
+Landesbank,"The credit risk control units are responsible for the design and development of the rating systems, in particular for the 
+design, selection, im plementation, oversight and performance of the rating systems (Article 190 CRR)",credit
+Landesbank,"ongoing rating controlling process and current 
+local checks carried out by the credit risk control unit) are presented as part of the report on the performance of the rating 
+processes",credit
+Landesbank,"In addition, the credit risk control units inform the respective senior management annually of ratings -based 
+analyses of the credit risk profile in accordance with Article 189 (3) CRR",credit
+Landesbank,"The rating systems of both banks are subject to a regular review process by the respective credit risk control units, the 
+central elements of which are conducted under the guidance of RSU or SR (this activity has been outsourc ed in line with 
+Section 25b of the German Banking Act and disclosed accordingly)",credit
+Landesbank,"The validation units at LBBW and Berlin Hyp assess the performance of the rating procedures at the respective banks in 
+accordance with Article 185 CRR in an independent process separate from the credit risk control unit’s  review process",credit
+Landesbank,"In accordance with Article 107 (3) CRR, non -EU investment firms, credit institutions, exchanges and cleari ng houses are 
+treated as exposures to an institution only if the requirements applied to that entity are at least equivalent to those 
+applied in the EU",investment
+Landesbank,"The distinction between Corporates 
+Rating and Sparkassen -StandardRating when categorizing domestic borrowers is made based on the borrower’s 
+consolidated revenue",revenue
+Landesbank,Transactions to which the rating procedure for funds is applied are also assigned to the “Corporates” exposure class,funds
+Landesbank,"Disclosure report 2022   
+73 
+Corporates/specialized lending exposures exposure class: check whether it is a small or medium -
+sized enterprise (SME)  
+Under Article 147 (5) (a) (ii) CRR, the customer’s (consolidated) annual revenue is used as a size indicator (SME 
+threshold)",revenue
+Landesbank,Corporates are classified as SMEs if they have annual revenue of EUR  50m or less,revenue
+Landesbank,"Equity investment exposure class  
+Equity exposures are essentially backed by fixed risk weightings",investment
+Landesbank,"System allocations and product numbers ensure 
+the correct assignment to the Equity investments exposure class in accordance with Article 147 (6) CRR",investment
+Landesbank,"The following section shows credit risk exposures reported under the IRB approach, excluding counterparty credit risks",credit
+Landesbank,"38   
+Of which Corporates - Specialized lending, 
+excluding slotting approach   40,750     
+Of which Corporates - Specialized lending 
+under slotting approach   22,764     
+Retail underl ying  13,157  100   
+of which Retail – Secured by real estate 
+SMEs   191    
+of which Retail – Secured by real estate 
+non-SMEs   3,776     
+of which Retail – Qualifying revolving       
+of which Retail – Other SMEs   3,006     
+of which Retail – Other non -SMEs   5,864    
+Equity  812 846 4",equity
+Landesbank,"97   
+Other non -credit obligation assets  1,543  1,912  19",credit
+Landesbank,"3 IRB approach – Credit risk exposures by exposure class and 
+PD range (Articl e 452 g CRR)  
+The following table shows IRB credit risk exposures by exposure class and PD ranges set by the regulator",credit
+Landesbank,"RWA density 
+is the ratio of risk -weighted assets to exposures after taking into account credit conversion factors and credit risk 
+mitigat ion",credit
+Landesbank,"The column “Density 
+of risk -weighted exposure amount” refers to the ratio of risk -weighted assets to exposures post credit conversion factors 
+and credi t risk mitigation",credit
+Landesbank,"Disclosure report 2022   
+75 
+             
+F-IRB 
+EUR million  
+PD scale  On-balance 
+sheet 
+exposures  Off-balance 
+sheet 
+exposures 
+pre-CCF Exposure 
+weighted 
+average 
+CCF Exposure 
+post CCF 
+and post 
+CRM  Exposure 
+weighted 
+average PD 
+(%) Number of 
+obligors  Exposure 
+weighted 
+average 
+LGD (%)  Exposure 
+weighted 
+average 
+maturity 
+(years)  Risk-
+weighted 
+exposure 
+amount 
+after SME 
+supporting 
+factor  Density of 
+risk-
+weighted 
+exposure 
+amount  Expected 
+loss 
+amount  Value 
+adjustments 
+and 
+provisions  
+Exposure class Central governments and centra l banks  
+0",loss
+Landesbank,"90 2 -2 
+ 
+ Disclosure report 2022   
+76 
+Figure 29: EU CR6 -B – IRB approach – Credit risk exposures by exposure class and PD range  
+  10",credit
+Landesbank,"4 IRB approach – Effect on the risk -weighted exposure amounts 
+of credit derivatives used as CRM techniques (Article 453 g, j CRR)  
+The following section shows credit risk exposures reported under the IRB approach, excluding counterparty credit risks",credit
+Landesbank,The following table shows the effect on RWAs of credit derivatives used for credit risk mitigation,credit
+Landesbank,"Since LBBW has not 
+used any credit derivatives for credit risk mitigation, both columns are identical",credit
+Landesbank,"EUR million  
+Exposure class  Pre-credit derivatives 
+risk-weighted 
+exposure a mount  Actual risk -weighted 
+exposure amount  
+Exposures under F -IRB 61,974  61,974  
+Central governments and central banks  2,378  2,378  
+Institutions  5,732  5,732  
+Corporates  32,316  32,316  
+Of which Corporates – SMEs  4,645  4,645  
+Of which Corporates – Specialize d lending  16,902  16,902  
+Exposures under A -IRB   
+Central governments and central banks    
+Institutions    
+Corporates    
+Of which Corporates – SMEs    
+Of which Corporates – Specialized lending    
+Retail    
+of which Retail – SMEs - Secured by immovable prop erty collateral    
+of which Retail – non-SMEs - Secured by immovable property collateral    
+of which Retail – Qualifying revolving    
+of which Retail – SMEs - Other    
+of which Retail – Non-SMEs - Other    
+Total  
+(including F -IRB exposures and A -IRB exposur es) 61,974  61,974  
+ 0  
+Figure 30: EU CR7: IRB approach – Effect on the risk -weighted exposure amounts of credit derivatives used as CRM techniques
+ 
+ Disclosure report 2022   
+78 
+12",credit
+Landesbank,"5 IRB approach – Disclosure of the extent of the use of CRM techniques (Artic le 453 g, j CRR)  
+Disclosure of the following template EU CR7A – Changes in the stock of non -performing loans and advances and related net accumulated recoveries for A -IRB is not relevant for 
+LBBW, as LBBW is not an A -IRB institution",stock
+Landesbank,"F-IRB Total 
+exposures  
+EUR million  Credit risk mitigation techniques  Credit risk Mitigation methods in the 
+calculation of RWEAs  
+EUR million  
+Funded Credit Protection (FCP)  Funded Credit Protection (FCP)  Unfunded credit  
+Protection (UFCP)  
+RWEA without 
+substituti on 
+effects 
+(reduction 
+effects only)  RWEA with 
+substitution 
+effects (both 
+reduction and 
+substitution 
+effects)  Part of 
+exposures 
+covered by 
+Financial 
+Collaterals 
+(%) Part of 
+exposures 
+covered by 
+Other eligible 
+collaterals (%)   
+Part of 
+exposures 
+covered by  
+Other funded 
+credit protection 
+(%)    
+Part of 
+exposures 
+covered by 
+guarantees 
+(%) Part of 
+exposures 
+covered by 
+credit 
+derivatives 
+(%) Part of 
+exposures 
+covered by 
+Immovable 
+property 
+Collaterals (%)  Part of 
+exposures 
+covered by 
+Receivables (%)  Part of 
+exposures 
+covered by 
+Other physical 
+collateral (%)  Part of 
+exposures 
+covered by 
+Cash on deposit 
+(%) Part of 
+exposures 
+covered by Life 
+insurance 
+policies (%)  Part of 
+exposures 
+covered by 
+Instruments 
+held by a third 
+party (%)  
+Central governments and  central banks  69,354           1",deposit
+Landesbank,"11   58,497  
+               
+Figure 31: EU CR7 -A – IRB approach – Disclosure of the extent of the use of credit risk mitigation techniques
+ 
+ Disclosure report 2022   
+79 
+12",credit
+Landesbank,"6 RWEA flow statements of credit risk exposures under the IRB 
+approach (Article 438 h CRR)  
+The following table shows the development of RWEAs of risk exposures under the IRB approach between 30 September 
+2022 and 31 December 2022",credit
+Landesbank,"EUR million  Risk -weighted 
+exposure amount  
+Risk-weighted exposure amount as at the end of the previous reporting period  56,669  
+Asset size (+/ -) -3,512  
+Asset qual ity (+/ -) -490 
+Model updates (+/ -) -529 
+Methodology and policy (+/ -)  
+Acquisitions and disposals (+/ -) 10,601  
+Foreign exchange movements (+/ -) -546 
+Other (+/ -) 100 
+Risk weighted exposure amount as at the end of the reporting period  62,293  
+  
+Figure 32: EU CR8 – RWEA flow statements of credit risk exposures under the IRB approach  
+The rise in RWEA is primarily due to the “Acquisitions and disposals” item, which shows changes to the size of the book 
+resulting from acquisition s or disposals of companies,",credit
+Landesbank,"The 
+“Asset quality” item shows the changes i n the measured quality of the investments resulting from changes to the obligor 
+risk such as changes to the ratings or similar effects",investment
+Landesbank,"The “Methodology and policy” item 
+shows changes caused by adjustments to calculation methods resulting from changes to regulatory policies",regulatory
+Landesbank,"Disclosure report 2022   
+83 
+13 Disclosure of specialized lending 
+and equity exposure under the simple 
+risk weight approach  
+(Article 438 e CRR)  
+13",equity
+Landesbank,"1 Specialized lending: Project finance (Slotting approach) 
+(Article 438 e CRR)  
+        
+ Specialized lending : Project finance (Slotting approach)  
+EUR mi llion 
+Regulatory 
+categories  Remaining maturity  On-
+balance 
+sheet 
+exposure  Off-balance 
+sheet 
+exposure  Risk weight  Exposure 
+value  Risk -weighted 
+exposure 
+amount  Expected loss 
+amount  
+Category 1  Less than 2",loss
+Landesbank,"2 Specialized lending: Income -producing real estate and high 
+volatility commercial real estate (Slotting approach)  
+(Article 438 e CRR)  
+        
+ Specialized lending : Income -producing real estate  and high volatility commercial real estate (Slotting approach)  
+EUR million  
+Regulatory 
+categories  Remaining maturity  On-
+balance 
+sheet 
+exposure  Off-balance 
+sheet 
+exposure  Risk weight  Exposure 
+value  Risk -weighted 
+exposure 
+amount  Expected loss 
+amount  
+Catego ry 1 Less than 2",loss
+Landesbank,"3 Specialized lending: Object finance (Slotting approach)  
+(Article  438 e CRR)  
+        
+ Specialized lending : Object finance (Slotting approach)  
+EUR million  
+Regulatory 
+categories  Remaining maturity  On-
+balance 
+sheet 
+exposure  Off-balance 
+sheet 
+exposure  Risk weight  Exposure 
+value  Risk -weighted 
+exposure 
+amount  Expected loss  
+amount  
+Category 1  Less than 2",loss
+Landesbank,"4 Equity exposures under the simple risk -weighted approach 
+(Article 438 e CRR)  
+       
+ Equity exposures under the simple risk -weighted approach  
+Categories  On-balance 
+sheet 
+exposure  Off-balance 
+sheet 
+exposure  Risk weight  Exposure  
+value  Risk -weighted 
+exposure 
+amount  Expected loss 
+amount  
+Private equity exposures  685 4 190%  688 1,308  6 
+Exchange -traded equity exposures  49  290%  49 143 0 
+Other equity exposures  2  370%  2 8 0 
+Total  736 4  740 1,459  6 
+       
+Figure 37: EU CR10",loss
+Landesbank,"5 – Equity exposures under the simple risk -weighted approach
+ 
+ Disclo sure report 2022   
+86 
+14 Disclosure of exposures to 
+counterparty credit risk  
+(Article 438 h, 439 CRR)  
+14",equity
+Landesbank,"1 Qualitative disclosure of exposures to counterparty credit risk 
+(Article 439 a -d CRR)  
+Counterparty credit risk  
+Counterparty credit risk (CCR) is the risk that the counterparty may default on amount owed in a derivative transaction as 
+a result of no longer being able to meet its financial obligations",credit
+Landesbank,"The amount of the counterparty credit ri sk depends on 
+the exposure value at reporting date",credit
+Landesbank,"Regulatory definition of risk exposure value at LBBW  
+According to Article 4 (1) no",regulatory
+Landesbank,"Accordingly, purs uant to Article 92 (3) (f) CRR, the risk weighted exposure amounts for the counterparty credit 
+risk for transactions listed in Annex II are part of the total risk exposure amount",credit
+Landesbank,"These are sub -divided into three 
+categories, “Interest -rate contracts”",interest
+Landesbank,"LBBW, including Berlin Hyp, determines the exposure value in accordanc e with Article 274 CRR 
+(standardized approach for counterparty credit risk)",credit
+Landesbank,"CRR, risk mitigation measures in connection with derivative  
+counterparty credit risks are the signing of recognized contractual netting and collateralization agreements and the use of 
+central counterparties",credit
+Landesbank,"The procedure for entering into and managing contractual netting and collateralization agreements for OTC derivatives is 
+set out in the bank’s internal rules, especially in the guideline on collat eral and wrong -way risks and in the internal credit 
+guidelines",credit
+Landesbank,"The guideline on collateral and wrong -way risk is binding for all relevant areas of LBBW in that it concerns the 
+general handling of collateral in respect of counterparty credit risk",credit
+Landesbank,"Allowances for losses on loans and advances  
+Credit risks of derivative transactions are included in a Credit Value Adjustment (CVA)",loss
+Landesbank,"2 Analysis of CCR exposure by approach  
+(Article 439 f -g, k, m CRR)  
+The methods used to calculate the regulatory requirements pursuant to the CRR are shown in the following table",regulatory
+Landesbank,"EUR million  Replacement 
+cost (RC)  Potential 
+future 
+exposure 
+(PFE)  EEPE  Alpha used for 
+computing 
+regulatory 
+exposure 
+value  Exposure 
+value pre -
+CRM  Exposure 
+value 
+post -CRM  Exposure 
+value  RWEA  
+EU - Original Exposure Method (for derivatives)          
+EU - Simplified SA -CCR (for derivatives)          
+SA-CCR (for derivatives)  2,570  4,121   1",regulatory
+Landesbank,"3 Transactions subject to own funds requirements for CVA risk 
+(Article 439 h CRR)  
+The following table shows the RWAs for the credit valuation adjustment (CVA) capital charge by appro ach",funds
+Landesbank,"EUR million  Exposure value  RWEA  
+Total transactions subject to the Advanced method    
+(i) VaR component (including the 3× multiplier)    
+(ii) stressed VaR component (including the 3× multiplier)    
+Transactions subject to the Standardized method  2,983  1,311  
+Transactions subject to the Alternative approach (Based on the Original Exposure Method)    
+Total transactions subject to own funds requirements for CVA risk  2,983  1,311  
+   
+Figure 39: EU CCR2 – Transactions subjec t to own funds requirements for CVA risk  
+14",funds
+Landesbank,"4 Standardized approach – CCR exposures by regulatory 
+exposure class and risk weights (Article 439 l CRR)  
+The following table shows the counterparty credit risk exposures reported in the CRSA by exposure class an d risk 
+weight",credit
+Landesbank,"Risk weight   
+EUR million  
+Exposure classes  0% 2% 4% 10% 20% 50% 70% 75% 100%  150%  Other  Total exposure 
+value  
+Central governments or central banks              
+Regional government or local authorities  2           2 
+Public se ctor entities      0       0 
+Multilateral development banks              
+International organizations              
+Institutions  721    0    2   722 
+Corporates      0  0  122 12  134 
+Retail underlying         3    3 
+Institutions and corporates with a short -term credit 
+assessment       0   0   0 
+Other items              
+Total exposure value  723    0 0 0 3 123 12  861 
+             
+Figure 40: EU CCR3 – Standardized approach – CCR exposures by regulatory exposure class and risk weig hts 
+  
+ 
+ Disclo sure report 2022   
+89 
+14",credit
+Landesbank,"5 IRB approach – CCR exposures by exposure class and PD 
+scale (Article 439 l CRR)  
+The following table provides all relevant parameters used for the calculation of counterparty credit risk capital 
+requirements in the IRB approach",credit
+Landesbank,"The 
+column “Density of risk -weighted exposure amount” refers to the ratio of risk -weight ed assets to exposures post credit 
+conversion factors and credit risk mitigation",credit
+Landesbank,"6 Composition of collateral for CCR exposures  
+(Article 439 e CRR)  
+The following table gives a breakdown of all types of collateral posted or received by  banks to reduce counterparty credit 
+risk",credit
+Landesbank,"Collat eral used in derivative transactions  Collateral used in SFTs  
+ Fair value of collateral 
+received  Fair value of posted 
+collateral  Fair value of collateral 
+received  Fair value of posted 
+collateral  
+EUR million  Segregate
+d Unsegreg
+ated Segregate
+d Unsegreg
+ated Segregate
+d Unsegreg
+ated Segregate
+d Unsegrega
+ted 
+Cash – domestic currency  605 20,091  300 13,315      
+Cash – other currencies   1,703   590     
+Domestic sovereign debt  25     2,524    
+Other sovereign debt  157 339    9,796    
+Government agency debt  1 89    1,104   
+Corporate bonds  3 766    2,018   2,432  
+Equity securities       6,576   1,745  
+Other collateral   1,276  1,143  3  3,742   13,989  
+Total  790 24,263  1,443  13,908   25,761   18,167  
+         
+Figure 42: EU CCR5 – Composition of coll ateral for CCR exposures  
+14",bonds
+Landesbank,"7 Credit derivatives exposures (Article 439 j CRR)  
+The following table sets out the notional amounts and fair values of the credit derivatives bought and sold for the Bank’s 
+own credit portfolio and for the trading portfolio by type of credit derivative (based on notional value)",credit
+Landesbank,"Credit derivatives 
+from brokering activities were not used by LBBW in 2022",credit
+Landesbank,"EUR million  
+Notionals  Protection bought  Protection sold  
+Single -name credit default swaps  6,350  4,425  
+Index credit defaul t swaps    
+Total return swaps  3,073   
+Credit options    
+Other credit derivatives  1,910  606 
+Total notionals  11,333  5,031  
+Fair values    
+Positive fair value (asset)  45 49 
+Negative fair value (liability)  -1,024  -35 
+   
+Figure 43: EU CCR6 – Credit derivatives exposures  
+The above table (EU CCR6) divides credit derivatives by protection bought and protection sold",liability
+Landesbank,There is no distinction between types of credit deriv ative,credit
+Landesbank,"Disclosure of table EU CCR7 – RWEA flow statements of CCR exposures under the IMM is not relevant for LBBW , as 
+there is no internal model for counterparty credit risks",credit
+Landesbank,"In the first securitization, the significant risk is transferred by way of a financial guarantee to the first loss  
+tranche",loss
+Landesbank,"The significant risk transfer is based on Article 245 (2)(b) CRR, as the total risk -weighted exposure amount of 
+the first loss tranche is placed in the market",loss
+Landesbank,"In the second securitization, the significant risk is transferred by way of a  
+credit linked note to the mezzanine tra nche",credit
+Landesbank,"The efficiency of the transactions is su bstantiated by new business enabled by the reduced own funds 
+requirements of the securitized portfolio",funds
+Landesbank,"The total 
+mezzanine/first loss tranche is placed in the mark et",loss
+Landesbank,", Jersey” and “Weinberg 
+Capital DAC, Dublin” special -purpose vehicles with liquidity facilities as well as swap lines if necessary in addition to its 
+role as a service provider",swap
+Landesbank,"Risk from liquidity lines is assessed by the relevant front and back offices at least once annual ly for 
+trading receivables and for interest -bearing receivables",interest
+Landesbank,"Presentation of the procedures for determining exposure values  
+Under the internal credit risk strategy, new securitization positions may be transacted with the Bank’s core customers up 
+to a certain limit provided that a detailed analysis of the risk profile is performed and documented in the light of the 
+transaction drivers which are liable to exert a direct or indirect effect on the risk profile of the securitization position",credit
+Landesbank,"The Bank normally uses the ratings based approach in the investor portfolio for SEC -ERBA securitization positions and 
+the derived credit rating assessment only sporadically",credit
+Landesbank,"The majority of investments are classified as high quality and g ranular and normally have at least one rating from a 
+recognized rating agency",investment
+Landesbank,"Disclosure report 2022   
+94 
+The liquidity lines and swaps (sponsor positions) provided as part of the ABCP (asset -backed commercial  paper) 
+program are weighted using the Internal Assessment Approach (SEC -IAA)",swap
+Landesbank,"To this end, LBBW developed and rolled out 
+corresponding models for measuring trading and interest -bearing receivables in 2008",interest
+Landesbank,"The IAA module for the securitization of trading receivables takes into account the asset credit risk (credit rating risks) 
+and the seller risk as counterparty risk",credit
+Landesbank,"The module for interest -bearing receivables is essentially based 
+on the assumption that there are no open residual value risks",interest
+Landesbank,"As with trading receivables, a distinction is made with 
+interest-bearing receivables between the risks of the asset pool (asset credit risk) and seller risks (in addition to the 
+dilution risk, commingling risk and transaction/funding costs risk including interest rate risk)",interest
+Landesbank,"The prepayment risk is the risk that the future excess spread of this receivable is no longer 
+available as a credit enhancement due to an early termination of the contract underlying the interest -bearing receivable",interest
+Landesbank,"The chart below sho ws the allocation of potential losses, broken down into the four main types of risk, to the individual 
+credit enhancement components:  
+ 
+The IAA module is used for assessing the risk of the liquidity lines (rating review/rating renewal) for trading receivab les 
+and for interest -bearing receivables by the relevant front and back office divisions",loss
+Landesbank,"List of securiti zation special purpose entities (SSPEs) in accordance with Article 449 d CRR  
+   
+Name  Type of exposure  Type of SSPE  
+Weinberg Capital DAC  Liquidity lines, swap lines  SSPE sponsored by the institution (sponsor 
+position)  
+Weinberg Funding Ltd",swap
+Landesbank,"The consolidation of special -purpose vehicles is not dependent on the amount of the capital investment or the 
+percentage of voting rights",investment
+Landesbank,"The accounting scope of consolidation under IFRS may deviate fro m the regulatory group 
+under CRR due to differing statutory conditions for consolidation",regulatory
+Landesbank,"LBBW as investor  
+The securitization products acquired by the LBBW Group as an investor are allocated  to the non -trading book for 
+regulatory purposes",regulatory
+Landesbank,"In accordance with IFRS  9, the products were allocated to “measured at amortized cost” or “mandatorily measured at fair 
+value through profit or loss” at the time of acquisition in line with their documente d business model and the cash flow 
+criterion and were measured as shown below:  
+Financial assets measured at amortized cost:  
+This balance sheet item includes financial assets belonging to portfolios with the business model “Hold” that meet the 
+requirement of a simple loan agreement",profit
+Landesbank,"Interest income (positive and negative) and fees similar to interest from these financial assets are recognized in the 
+statement of profit or loss under “Net interest income and current income from equity instruments”",profit
+Landesbank,"Expenses and income 
+from allowances for losses on loans and advances, as well as gains and losses from sel ling these financial assets, can 
+be found in the statement of profit or loss under the item “Net income from financial assets measured at amortized cost”",profit
+Landesbank,"Financial assets mandatorily measured at fair value through profit or loss:  
+Financial assets that ne ither meet the requirements of a simple loan agreement nor belong to a portfolio with the “Sell” 
+business model are recognized in this balance sheet item",profit
+Landesbank,"A subsequent remeasurement at fair value1 through profit or 
+loss takes into account all fluctuations in fair value directly in the statement of profit or loss",profit
+Landesbank,"Fair value is defined in 
+accordance with IFRS 13 as the price at which an asset or liability could be exchanged at the measurement date in an 
+orderly transaction between market participants",liability
+Landesbank,"Disclosure report 2022   
+96 
+Interest income (positive and negative) from these financial assets and distributions from equity instruments are 
+recognized in the statement of profit or loss under “Net interest income and current income from equity instruments”",profit
+Landesbank,"Changes to fair value and gai ns and losses from selling these financial instruments can be found in the statement of 
+profit or loss under the item “Net gains/losses from financial instruments measured at fair value through profit or loss”",profit
+Landesbank,"Upon utilization, swaps are recognized as derivatives under IFRS and allocated to the category “Financial assets 
+mandatorily measured at fair value through profit or loss”",profit
+Landesbank,"Institution acts as originator  Institution acts as sponsor  Institution acts as investor  
+ Traditional  Synthetic  Subtotal  Traditional  
+Synthetic  Subtotal  Traditional   Subtotal  
+ STS Non-STS 
+ of which SRT   STS Non-STS  STS Non-STS Synthetic   EUR million   of which SRT   of which  SRT 
+Total exposures      5,962  5,962  5,962  3,086  255  3,341  1,131    1,131  
+Retail (total)             36   36 
+residential mortgage                 
+credit card                 
+other retail exposures             36   36 
+Re-securitization                 
+Wholesale (total)      5,962  5,962  5,962  3,086  255  3,341  1,095    1,095  
+loans to corporates      5,962  5,962  5,962      444   444 
+commercial mortgage                 
+lease and receivables         3,086  255  3,341  651   651 
+other wholesale                 
+re-securitization                 
+                
+Figure 45: EU-SEC1 – Securitization exposures in the non -trading book  
+Disclosure of template EU SEC2 – Securitization exposures in the trading book  is not relevant for LBB W, as LBBW currently has no trading book exposures in its portfolio",credit
+Landesbank,"3 Securitization exposures in the non -trading book and associated regulatory capital re quirements - 
+institution acting as originator or as sponsor (Article 449 k CRR)  
+ 
+                  
+ Exposure values (by RW bands/deductions)  Exposure values (by regulatory approach)  RWEA (by regulatory approach)  Capital charge after cap  
+EUR million  ≤20% 
+RW >20% to 
+50% RW  >50% to 
+100% 
+RW >100% to 
+<1250% 
+RW 1250% 
+RW / 
+deductio
+ns SEC-
+IRBA  SEC-
+ERBA 
+(includin
+g IAA)  SEC-SA 1250% 
+RW / 
+deductio
+ns SEC-
+IRBA  SEC-
+ERBA 
+(includin
+g IAA)  SEC-SA 1,250% 
+RW SEC-
+IRBA  SEC-
+ERBA 
+(includin
+g IAA)  SEC-SA 1,250% 
+RW 
+Total expo sures  7,187  1,976  90 3 49 5,913  2,919  423 49 797 867 45  64 69 4  
+Traditional transactions  1,274  1,976  90 3   2,919  423   867 45   69 4  
+Securitization  1,274  1,976  90 3   2,919  423   867 45   69 4  
+Retail underlying                   
+Of which STS                   
+Wholesale  1,274  1,976  90 3   2,919  423   867 45   69 4  
+Of which STS  1,160  1,926      2,666  420   772 42   62 3  
+Re-securitization                   
+Synthetic transactions  5,913     49 5,913    49 797    64    
+Securitization  5,913     49 5,913    49 797    64    
+Retail underlying                   
+Wholesale  5,913     49 5,913    49 797    64    
+Re-securitization                   
+                  
+Figure 46: EU-SEC3 – Securitization exposures in the non -trading book an d associated regulatory capital requirements – institution acting as originator or as sponsor  
+  
+ 
+ Disclosure report 2022   
+99 
+15",regulatory
+Landesbank,"4 Securitization exposures in the non -trading book and associated regulatory capital requirements - 
+institution acting as investor (Article 449 k CRR)  
+ 
+                  
+ Exposure values (by RW bands/deductions)  Exposure values (by regulatory approach)  RWEA (by regulatory approach)  Capital charge after cap  
+EUR million  ≤20% 
+RW >20% to 
+50% RW  >50% to 
+100% 
+RW >100% to 
+<1250% 
+RW 1250% 
+RW / 
+deductio
+ns SEC-
+IRBA  SEC-
+ERBA 
+(includin
+g IAA)  SEC-SA 1250% 
+RW / 
+deductio
+ns SEC-
+IRBA  SEC-
+ERBA 
+(includin
+g IAA)  SEC-SA 1,250% 
+RW SEC-
+IRBA  SEC-
+ERBA 
+(includin
+g IAA)  SEC-SA 1,250% 
+RW 
+Total exposures  1,124  7     534 598   57 71   5 6  
+Traditional transactions  1,124  7     534 598   57 71   5 6  
+Securitization  1,124  7     534 598   57 71   5 6  
+Retail underlying  36      36    4    0   
+Of which STS  36      36    4    0   
+Wholesale  1,088  7     497 598   53 71   4 6  
+Of which STS  1,088  7     497 598   53 71   4 6  
+Re-securitization                   
+Synthetic transactions                   
+Securitization                   
+Retail underlying                   
+Wholesale                   
+Re-securitization                   
+                  
+Figure 47: EU-SEC4  – Securitization exposures in the non -trading book and associated regulatory capital requirements – institution acting as investor
+ 
+ Disclosure report 2022   
+100 
+15",regulatory
+Landesbank,"5 Exposures securitized by the institution - Exposures in default 
+and specific credit risk adjustments  
+(Article 449 l CR R) 
+    
+ Exposures securitized by the institution - Institution acts as originator or 
+as sponsor  
+ Total outstanding nominal amount  Total amount of 
+specific credit risk 
+adjustments made 
+during the period  
+EUR million   Of which exposures in 
+default   
+Total exposures  9,691  10  
+Retail (total)     
+residential mortgage     
+credit card     
+other retail exposures     
+re-securitization     
+Wholesale (total)  9,691  10  
+loans to corporates  6,349    
+commercial mortgage     
+lease and receivables  3,342  10  
+other whole sale    
+re-securitization     
+    
+Figure 48: EU-SEC5 – Exposures securitized by the institution – Exposures in default and specific credit risk adjustments
+ 
+ Disclosure report 2022   
+101 
+16 Disclosure of the use of the 
+standardized approach and of the 
+internal models for market risk 
+(Articles 435, 445 and 455 CRR)  
+Definitions  
+LBBW defines market price risks as potential losses resulting from unfavorable changes in market prices or factors 
+influencing prices",loss
+Landesbank,"Market price risks are split into the categories e quity, interest rates and exchange rates/commodities",interest
+Landesbank,"Equity risk  
+The equity risk results from changes in share and/or index prices as well as from share or index volatilities",equity
+Landesbank,"Interest rate risk  
+The interest rate risk is based on changes in market interest rates, yield spreads, credit spreads or even interest rate 
+volatility",interest
+Landesbank,"This observation 
+period is determined at l east once a year for the CRR portfolio relevant for prudential disclosures containing all the 
+trading book positions of LBBW (Bank) excluding non -transparent investment funds",investment
+Landesbank,"2 Market risk under the standardized approach  
+(Article 445 CRR)  
+LBBW calculates the capital requirements for market price risks for general interest rate and e quity risk including option 
+price risks using the Internal Model Method",interest
+Landesbank,"EUR million  RWEAs  
+Outright products   
+Interest rate risk (general and specif ic) 1927  
+Equity risk (general and specific)  468 
+Foreign exchange risk  704 
+Commodity risk  84 
+Options   
+Simplified approach   
+Delta -plus approach  30 
+Scenario approach   
+Securitization (specific risk)   
+Total  3213  
+  
+Figure 49: EU MR1 – Market risk under the standardized approach  
+16",interest
+Landesbank,"In the risk -calculation simulation, the deviation of the risk factors is  calculated using the following models: equity prices, 
+FX rates and interest -rate volatility using log yields, CDS spreads and interest rates using absolute yields and equity/FX 
+volatilities using relative yields",interest
+Landesbank,Interest rate risks describe potentially n egative developments in market interest rates,interest
+Landesbank,"Credit spread r isks from securities and Schuldschein loans are measured on the basis of the general and specific issuer 
+risk",credit
+Landesbank,This risk category includes trading book transactions that are sensitive to creditworthiness,credit
+Landesbank,"Own discount curves are also used for government bonds and bonds 
+issued by German federal states",bonds
+Landesbank,Reference borr owers are allocated to CDS sector curves for credit spread risks from credit derivatives,credit
+Landesbank,"The allocated 
+CDS sector curves are deflected for the general interest rate risk",interest
+Landesbank,Interest rate and credit spread risks account for the most significant share of LBBW ’s market price risk,interest
+Landesbank,"Equity risks are 
+less significant",equity
+Landesbank,"S ynthetic scenarios are based mostly on selected 
+market factor groups such as individual and combined interest shifts",interest
+Landesbank,"Changes in equities, interest rates, credit spreads and FX are simulated",interest
+Landesbank,"to leverage differences between buying and selling prices or from other price, value or interest rate  
+variations in the short term or to sell the position at short notice",interest
+Landesbank,"Adjustments in accordance with Article 105 CRR (“prudent valuation”)  
+In addition, LBBW makes deductions from its regulatory own funds to allow for model risks , settlement costs, market 
+price uncertainty, unearned credit risk premiums, operational risks, less liquid and concentration positions as well as 
+administration expenses, cash investment and borrowing costs",investment
+Landesbank,"These adjustments are calculated for all positi ons 
+measured at fair value and deducted from Common Equity Tier 1 capital",equity
+Landesbank,"5 RWEA flow statements of market risk exposures under the 
+IMA (Article 438 h CRR)  
+        
+EUR million  VaR SVaR  IRC Compreh
+ensive 
+risk 
+measure  Other  Total 
+RWAs  Total own 
+funds 
+requirements  
+RWAs at previous period end  985 3,318     4,304  344 
+Regulatory adjustment  707 2,637     3,344  268 
+RWAs at the previous quarter -end (end of the day)  279 681    960 77 
+Movement in risk levels  -45 -181    -226 -18 
+Model updates/changes         
+Methodology and policy         
+Acquisitions and dis posals         
+Foreign exchange movements         
+Other  57     57 5 
+RWAs at the end of the reporting period (end of the day)  291 500    791 63 
+Regulatory adjustment  745 1,674     2,419  194 
+RWAs at the end of the reporting period  1,036  2,174     3,210  257 
+        
+Figure 51: EU MR2 -B – RWEA flow statements of market risk exposures under the IMA  
+The values for RWEAs decreased significantly compared to the previous quarter",funds
+Landesbank,"7 Comparison of VaR estimates with gains/losses  
+(Article 455 g CRR)  
+Backtesting and validation  
+LBBW’s market risk model is subject to an extensive validation program im plemented within Risk Control by the 
+Independent Validation Unit, which is organizationally independent of model development",loss
+Landesbank,"In contrast, backtestin g constitutes statistical backtesting of risk predictions with hypothetical 
+(clean backtesting) and actual changes in portfolio value (dirty backtesting), which excludes credit, debit and additional 
+valuation adjustments)",credit
+Landesbank,"The CRR portfolio, which comprises trading transa ctions whose own funds requirements for general equity and general 
+interest rate risks takes place via the internal risk model, shows eleven outliers in the past 250 trading days for the clean  
+P/L",interest
+Landesbank,0% of total own funds requirements for market price risks are compared backwards,funds
+Landesbank,"7 Change in credit spreads  
+21/02/2022  0",credit
+Landesbank,"1 Change in credit spreads, interest rate movement  
+24/02/2022  5",interest
+Landesbank,"4 Change in credit spreads, interest rate movement  
+03/03/2022  1",interest
+Landesbank,"4 Change in credit spreads, interest rate movement  
+20/04/2022  0",interest
+Landesbank,"7 Change in credit spreads  
+27/05/2022  1",credit
+Landesbank,"7 Change in credit spreads, interest rate movement  
+24/06/2022  1",interest
+Landesbank,"8 Change in credit spreads, interest rate movement  
+30/06/2022  3",interest
+Landesbank,"1 Change in credit spreads, interest rate movement  
+22 July 2022  0",interest
+Landesbank,"1 Interest rate movement  
+10 Aug",interest
+Landesbank,"5 Change in credit spreads, interest rate movement  
+29 Sep",interest
+Landesbank,"4 Change in credit spreads, interest rate movement  
+   
+ 
+The table below gives an overview of the outliers in dirty backtesting:  
+   
+Date  Excess amount in 
+EUR m  Cause  
+27/05/2 022 2",interest
+Landesbank,"0 Change in credit spreads, interest rate movement  
+10 Aug",interest
+Landesbank,"1 Change in credit spreads, interest rate movement  
+   
+The outliers occurred due to sharp market movements",interest
+Landesbank,"Clean backtesting CRR portfolio for the period 7 January 2022 – 30 December 2022 in EUR million  
+VaR parameters: 99% confidence level, 1 -day holding period  
+Figure 53: EU MR4 – Comparison of VaR estimates wi th gains/losses (1)  
+
+ 
+ Disclosure report 2022   
+108 
+Dirty backtesting CRR portfolio for the period 7 January 2022 – 30 December 2022 in EUR million  
+VaR parameters: 99% confidence level, 1 -day holding period  
+Figure 54: EU MR4 – Comparison of VaR estimates with  gains/losses (2)  
+ 
+
+ 
+ Disclosure report 2022   
+109 
+17 Disclosure of operational risk 
+(Articles 435, 446, 454  CRR)  
+17",loss
+Landesbank,"1 Qualitative information on operational risk  
+(Articles 435 (1), 446, 454 CRR)  
+In accordance with regulatory requirements, operational risks are described as the risk of losses arising due to the 
+unsuitability or failure of internal processes and systems, people, or due to external events",loss
+Landesbank,"Internal and external loss event data, the annual risk inventory (self -assessment and scenario analysis) and risk 
+indicators are used to identify and asses s the risk situation",loss
+Landesbank,"Ad hoc reports are also made depending on the 
+amount of loss",loss
+Landesbank,"CRR is applied to determine own fund requirements for regulatory 
+purposes",regulatory
+Landesbank,"2 Operational risk own funds requirements and risk -weighted 
+exposure amounts (Articles 446, 454 CRR)  
+      
+ Relevant indicator  Own fund 
+requirements  Risk exposure 
+amount  EUR million  Year -3 Year -2 Last year  
+Banking activities subject to basic indicator approach (BIA)       
+Banking activities subject to standardized (TSA) / alternative 
+standardized (ASA) approaches  2,934  3,499  3,688  510 6,372  
+Subject to TSA:  2,934  3,499  3,688    
+Subject to ASA:       
+Banking activities subject to advanced measurement 
+approaches AMA       
+      
+Figure 55: EU OR1 – Operational risk own funds requirements and risk -weighted exposure amounts  
+The own funds requirement is calculated on the basis of the audited annual financial statements",funds
+Landesbank,"1 Encumbered and unencumbered assets (Article 443 CRR)  
+         
+ Carrying amount of 
+encumbered assets  Fair value of 
+encumbered assets  Carrying amount of 
+unencumbered assets  Fair value of 
+unencumbered assets  
+ of which 
+notionally 
+eligible 
+EHQL A 
+and HQLA   of which 
+notionally 
+eligible 
+EHQLA 
+and HQLA   of which 
+EHQLA 
+and HQLA   of which 
+EHQLA 
+and HQLA  
+Assets of the reporting institution  116,828  15,061    212,675  88,524    
+Equity instruments  1,528  3,613  3,740  3,614  6,411  2,092  7,947  3,168  
+Debt secur ities 15,017  11,786  15,063  11,838  24,367  10,314  24,977  10,569  
+of which: covered bonds  9,543  9,402  9,546  9,406  5,374  5,056  5,381  5,062  
+of which: securitizations  18 - 18 - 450 - 450 - 
+of which: issued by general governments  1,830  1,820  1,877  1,867  3,599  3,301 3,995  3,696  
+of which: issued by financial corporations  13,014  9,902  13,013  9,907  19,689  6,144  19,884  6,194  
+of which: issued by non -financial 
+corporations  173 64 173 64 434 163 506 168 
+Other assets  101,442  2,282    188,047  78,137    
+         
+Figure 56: EU AE1 – Encumbered and unencumbered assets  
+ 
+ Disclosure report 2022   
+112 
+18",bonds
+Landesbank,"2 Collateral received and own debt securities issued  
+(Article 443 CRR)  
+     
+ Fair value of encumbered collateral received or 
+own debt securities issued  Unencumbered  
+Fair va lue of collateral received or own debt 
+securities issued available for encumbrance  
+ of which notionally 
+eligible EHQLA and 
+HQLA   of which EHQLA and 
+HQLA  
+Collateral received by the reporting institution  22,125  17,975  23,768  16,703  
+Loans on demand  - - - - 
+Equity instruments  87 87 1,624  1,069  
+Debt securities  22,038  17,889  22,032  15,683  
+of which: covered bonds  869 475 682 546 
+of which: securitizations  - - - - 
+of which: issued by general governments  16,225  15,469  5,339  4,667  
+of which: issued by financi al corporations  4,990  1,591  15,116  10,556  
+of which: issued by non -financial 
+corporations  515 229 1,464  557 
+Loans and advances other than loans on 
+demand  - - - - 
+Other collateral received  - - - - 
+Own debt securities issued other than own 
+covered bonds o r securitizations  - - 1,442  - 
+Own covered bonds and asset -backed securities 
+issued and not yet pledged    105 - 
+TOTAL ASSETS, COLLATERAL RECEIVED 
+AND OWN DEBT SECURITIES ISSUED  137,734  33,036    
+     
+Figure 57: EU AE2 – Collat eral received and own debt securities issued  
+18",bonds
+Landesbank,"3 Sources of encumbrance (Article 443 CRR)  
+   
+ Matching liabilities, contingent liabilities 
+or securities lent  Assets, collateral received and own debt 
+securities issued other than covered 
+bonds and securiti zations encumbered  
+Carrying amount of selected financial liabilities  98,048  123,442  
+   
+Figure 58: EU AE3 – Sources of encumbrance  
+18",bonds
+Landesbank,"At LBBW, disclos ures on asset encumbrance are based on the regulatory scope of consolidation within the meaning of 
+CRR",regulatory
+Landesbank,• Covered bonds: LBBW issues covered bond in accordance with German covere d bond legislation,bonds
+Landesbank,"Accordingly, 22% 
+(previous year: 28%) of the encumbered assets are for covered bonds",bonds
+Landesbank,"Positive fair values 
+under derivatives particularly result in an encumbrance as some of these are reported within gross asset 
+encumbrance (without netting of the corresponding liability position)",liability
+Landesbank,"LBBW transacts derivatives  under national and 
+international agreements (German Rahmenvertrag and ISDA Master Agreement) and with corresponding credit 
+support annexes",credit
+Landesbank,"LBBW enters into securities lending agreements under national and international security loan master 
+agreements (Rahmenvertrag für Wertpapierdarlehen and Global Master Securities Lending Agreement)",security
+Landesbank,"This essentially includes receivables from rever se repos, derivative assets, 
+majority interests, property plant and equipment and cash in hand",interest
+Landesbank,Repurchased covered bonds amounted to EUR  104,bonds
+Landesbank,"Disclosure report 2022   
+114 
+19 Disclosure of exposures to interest 
+rate risk on positions not held in the 
+trading book (Article 448 CRR)  
+19",interest
+Landesbank,"1 Exposures to interest rate risk on positions not held in the 
+trading book (Article 448 CRR)  
+     
+ Changes of the economic value of equity  Changes of the net interest income  
+EUR million  
+Supervisory shock scenarios  Current period  Last period  Current period  Last period  
+Parallel up  -864 -1,303  49 277 
+Parallel  down  398 277 -180 -131 
+Steepener  33 -74   
+Flattener  -233 -306   
+Short -term shock up  -463 -574   
+Short -term shock down  235 345   
+     
+Figure 59: EU IRRBB1 – Interest rate risks of non -trading book activities  
+19",interest
+Landesbank,"These items include risks in the form of cash 
+flow incongruities (structural risks), risks from leveraging interest rate gaps between individual market segments (basic 
+risk) and options risks from financial transactions entered into",interest
+Landesbank,"Quantification  
+All relevant interest -bearing and/or interest -sensitive positions in the non -trading book are included in measurements of 
+potential changes in economic value in accordance with L BBW’s own procedures for measuring interest rate risks",interest
+Landesbank,"For variable -rate transactions with private and corporate customers (particularly deposits), records made on grounds of 
+conditions or conduct are taken into account by using the deposit base theory in conjunction with the concept of moving 
+averages",deposit
+Landesbank,Interest rate risks are measured daily using a Mon te Carlo simulation,interest
+Landesbank,"Here, changes in the value of the non -trading book 
+as a whole or even for individual portfolios are specified for each currency using randomly selected interest rate 
+scenarios",interest
+Landesbank,"The VaR expresses the potential loss which with 99% probability will 
+not be exceeded within a trading day",loss
+Landesbank,"Scenarios that specifically quantify t he effects of interest rate changes on the economic value of positions in 
+the non -trading book are also included",interest
+Landesbank,"In order to measure the influence of interest rate changes on net interest income, projections for interest income and 
+expenses are calculated  in various scenarios",interest
+Landesbank,"In 
+addition to the interest projections for a co nstant balance sheet in combination with parallel shifts, interest projections are 
+also calculated for a constant balance sheet in combination with the four other regulatory scenarios",interest
+Landesbank,"These scenarios 
+include both cross -risk type and interest -specific scenarios",interest
+Landesbank,"The interest -specific scenarios comprise a scenario in which 
+interest rates increase and a scenario with constant interest rates",interest
+Landesbank,The interest projection s relate to the complete external interest rate,interest
+Landesbank,"The interest projections require assumptions on the 
+development of market data as well as assumptions on the development of the balance sheet",interest
+Landesbank,Net interest income is part of monthly reporting,interest
+Landesbank,"In addition, effects of shock scenarios are calculated and reported on a 
+quarterly basis for the constant balance sheet and the effects of dynamic interest rate developments ascertained in the 
+ICAAP",interest
+Landesbank,Modeling for ancillary agreements and non -maturity deposits is based on specific models,deposit
+Landesbank,"Special repayment rights are presented using an interest -based, linear prepayment model",interest
+Landesbank,"In the modeling of Section 489 BGB special termination rights until the end of margin pegging (margin pegging here is 
+the same as interest rate pegging), only the next possible termination right is relevant for this portfolio segment",interest
+Landesbank,"Interest -based models are used as the interest rate environment has 
+considerable influenc e on the termination decision",interest
+Landesbank,"The basic assumpti on of the modeling is that the expected 
+prepayment rate for active special termination rights comprises two components: an interest -based, one -time rate and a 
+non-interest, periodic core deposit rate",interest
+Landesbank,"Non-maturity deposits  
+Non-maturity deposits are presented using a core deposit model in combination with a replication model",deposit
+Landesbank,"In the quantification of interest rate risk, the stock of non -maturity deposits (NMD stock) is broken down into the stab le 
+portion, the core deposits, and a complementary and directly interest -sensitive volatile portion due to transactions in 
+NMD accounts that fluctuate due to regular deposits and withdrawals",interest
+Landesbank,"The me thod selected to obtain a constant, specific behavior -based term for NMDs is the creation of a replication 
+portfolio, which allocates the volume of the core deposits to long -term investments and generates a moving average 
+return",investment
+Landesbank,"The creation of the portfolio does not acco unt for all potentially possible mix ratios, but only those that can practically be 
+used and can meaningfully be used under the given term restrictions",restrictions
+Landesbank,"Disclosure report 2022   
+116 
+Interest rate risks in the non -trading book  
+Present value perspective  
+Under regulatory requirements, th e effect of an interest -rate shock on the economic value must be disclosed in the non -
+trading book",interest
+Landesbank,"In the “Parallel fall in interest rates” scenario, each 
+currency has a lower interest rate limit depending on the maturity, starting at -1% for items that mature immediately",interest
+Landesbank,"Thus, the effective 
+fall in interest rates assumed in the scenario is determined by current interest rates and the lower interest rate limit 
+depending on the maturity",interest
+Landesbank,"Like a portfolio reduction, the sharp rise in interest rates prompted by high inflation in 2022 reduces the effect of an 
+interest rate shock",interest
+Landesbank,"Given the regulatory requirement that only half of the positive stress effects may be taken into account, there is a 
+considerable difference between the absolute stress  results for the increasing interest rate and declining interest rate 
+scenario",interest
+Landesbank,"Periodic perspective  
+The changes in net interest income (NII) in a 12 -month analysis for the shock scenarios result primarily from the non -
+maturity deposits (NMDs)",interest
+Landesbank,"Disclosure report 2022   
+119 
+21 Regulatory disclosure of ESG risks 
+(Article  449 a CRR)  
+21",regulatory
+Landesbank,"Full implementation - inclusion of the review of taxonomy compliance in the 
+credit process - provides enhanced information that signi ficantly increases transparency regarding the sustainability of 
+business partners and their activities",credit
+Landesbank,"Excerpt from the risk appetite statement:  
+Sustainable business model  
+(1) The LBBW Group acts in the best and long -term interest of its customers and stakeho lders and thus intends to 
+make a substantial contribution to society",interest
+Landesbank,"Especially in the credit portfolio, concentration risks are to be ma naged at sector, size 
+class and country level",credit
+Landesbank,"(7) As part of a voluntary climate commitment, together with other players in the German financial sector LBBW 
+agreed to facilitate the necessary economic transformation to achieve carbon neutrality by no later than 2050 
+and to support this with it s investment and credit portfolio",investment
+Landesbank,"In particular, LBBW will:  
+• establish carbon neutral banking operations by no later than 2050 (Scope 1 and 2) and make the portfolio 
+(Scope 3) carbon neutral,  
+• set and publish sector -specific and scenario -based climate targ ets for 2030 for the sectors in the portfolio 
+responsible for the most greenhouse gas emissions in order to ensure targets are met,  
+• measure the climate impact of its credit and investment portfolio on an ongoing basis and manage it in line 
+with national an d international climate targets",investment
+Landesbank,"In addition, clear thresholds have been set for energy suppliers regarding the share of energy or 
+revenue generated by coal",revenue
+Landesbank,"At Board  of Managing Directors level, the Risk Committee (risk 
+monitoring, determining risk methodology), the Asset Liability Committee (interest (banking book), management of FX, 
+liquidity, capital and balance sheet structuring of the LBBW Group) and the Credit C ommittee (credit decisions in 
+accordance with credit/trade decision -making system) should be noted here",liability
+Landesbank,"Operational responsibility in the first line of defense lies with the areas 
+responsible for the transaction, depending on the type of risk (in particular credit and transaction -related reputational 
+risk)",credit
+Landesbank,"The fo cus here is on 
+holistic investment advice",investment
+Landesbank,"LBBW provides detailed and readily understandable information about various forms of investment and any associated 
+risks and prepares a suitability report for each investment consultation",investment
+Landesbank,"to buy a or sell a product is suitable for the respective customer 
+and fits their investment  
+Our advisors are not assigned sales targets for individual securities products",investment
+Landesbank,"Sal es targets must always align with 
+customer interests",interest
+Landesbank,"Product selection 
+guidelines and review mechanisms ensure that we always put our customers’ interests first",interest
+Landesbank,"As a result, the 
+effects of transitory and physical climate risks on credit risk in particular were deemed material in the short, medium and 
+long term",credit
+Landesbank,"We assume that transitory and physical risks result in increased investment and changes to our customers’ 
+business models and could thus primarily hurt their operating income",investment
+Landesbank,"On the other hand, risks from changes in biodiversity and risks relating to a dditional ESG topics on credit risks were 
+considered less relevant from a risk perspective at present",credit
+Landesbank,"Interested 
+employees can view the document on a sustainability page of the intranet, alongside links to all relevant regulations",interest
+Landesbank,Transition r isks are material factors affecting LBBW’s credit risk,credit
+Landesbank,"The f inanced emissions to be published in the disclosure report under Article 449a of the Capital Requirements 
+Regulation (CRR) relate only to the sub -portfolio of credit exposures in the banking book towards corporate customers 
+(in particular excluding derivat ives and line agreements)",credit
+Landesbank,"A breakdown of these financed emissions by sector can be found in the 2022 disclosure report in Template 1: 
+Banking book - Indicators of potential climate c hange transition risk: Credit quality of exposures by sector, emissions and 
+residual maturity ",credit
+Landesbank,LBBW developed the physical risk tool to analyze the impact of chronic and acute physical climate risks on credit risk,credit
+Landesbank,"To identify and assess ESG -related credit risks and reputation risks, LBBW appli es sustainability -related review criteria in 
+the loan application process",credit
+Landesbank,LBBW uses portfolio -specific check lists to evaluate potential ESG risks in credit exposures,credit
+Landesbank,"If the thresholds set out in 
+the credit risk strategy are exceeded, from 2023 onwards the next -highest person responsible must make a decision in 
+accordance with the decision -making system for lending and trading transactions",credit
+Landesbank,"2 Template 1: Banking book – Indicators of potential climate Change transition risk: Credit quality of 
+exposures by sector, emissions and residual maturity  
+                 
+ Gross carrying amount (million EUR)  Accumulat ed impairment, accumulated negative 
+changes in fair value of gross carrying amount (EUR 
+million) due to credit risk and provisions (EUR 
+million)  GHG financed emissions 
+(scope 1, scope 2 and scope 
+3 emissions of the 
+counterparty) (in tons of CO2 
+equivalent)  
+GHG emissions: 
+Percentage based 
+on company -
+specific 
+reporting***  <= 5 
+years  > 5 years <= 
+10 years  > 10 years 
+<= 20 years  > 20 
+years  Average 
+weighted 
+maturity  Sector/subsector   Of which exposures 
+towards companies 
+excluded from EU 
+Paris -aligned 
+Benchmarks ** Of which 
+environme
+ntally 
+sustainabl
+e (CCM)  Of which 
+Stage 2 
+exposures  Of which non -
+performing 
+exposures   Of which Stage 
+2 exposures  Of which non -
+performing 
+exposures   Of which 
+Scope 3 
+financed 
+emissions  
+Exposures towards sectors that highly 
+contr ibute to climate change*  87,677  2,709   13,782  973 – 973 – 246 – 433 5,771,627   20% 56,466  20,111  7,878  3,222  4",credit
+Landesbank,"90 
+ 
+ Disclosure report 2022   
+125 
+                 
+ Gross carrying amount (million EUR)  Accumulat ed impairment, accumulated negative 
+changes in fair value of gross carrying amount (EUR 
+million) due to credit risk and provisions (EUR 
+million)  GHG financed emissions 
+(scope 1, scope 2 and scope 
+3 emissions of the 
+counterparty) (in tons of CO2 
+equivalent)  
+GHG emissions: 
+Percentage based 
+on company -
+specific 
+reporting***  <= 5 
+years  > 5 years <= 
+10 years  > 10 years 
+<= 20 years  > 20 
+years  Average 
+weighted 
+maturity  Sector/subsector   Of which exposures 
+towards companies 
+excluded from EU 
+Paris -aligned 
+Benchmarks ** Of which 
+environme
+ntally 
+sustainabl
+e (CCM)  Of which 
+Stage 2 
+exposures  Of which non -
+performing 
+exposures   Of which Stage 
+2 exposures  Of which non -
+performing 
+exposures   Of which 
+Scope 3 
+financed 
+emissions  
+C",credit
+Landesbank,"80 
+ 
+ Disclosure report 2022   
+126 
+                 
+ Gross carrying amount (million EUR)  Accumulat ed impairment, accumulated negative 
+changes in fair value of gross carrying amount (EUR 
+million) due to credit risk and provisions (EUR 
+million)  GHG financed emissions 
+(scope 1, scope 2 and scope 
+3 emissions of the 
+counterparty) (in tons of CO2 
+equivalent)  
+GHG emissions: 
+Percentage based 
+on company -
+specific 
+reporting***  <= 5 
+years  > 5 years <= 
+10 years  > 10 years 
+<= 20 years  > 20 
+years  Average 
+weighted 
+maturity  Sector/subsector   Of which exposures 
+towards companies 
+excluded from EU 
+Paris -aligned 
+Benchmarks ** Of which 
+environme
+ntally 
+sustainabl
+e (CCM)  Of which 
+Stage 2 
+exposures  Of which non -
+performing 
+exposures   Of which Stage 
+2 exposures  Of which non -
+performing 
+exposures   Of which 
+Scope 3 
+financed 
+emissions  
+D35",credit
+Landesbank,"06 
+ 
+ Disclosure report 2022   
+127 
+                 
+ Gross carrying amount (million EUR)  Accumulat ed impairment, accumulated negative 
+changes in fair value of gross carrying amount (EUR 
+million) due to credit risk and provisions (EUR 
+million)  GHG financed emissions 
+(scope 1, scope 2 and scope 
+3 emissions of the 
+counterparty) (in tons of CO2 
+equivalent)  
+GHG emissions: 
+Percentage based 
+on company -
+specific 
+reporting***  <= 5 
+years  > 5 years <= 
+10 years  > 10 years 
+<= 20 years  > 20 
+years  Average 
+weighted 
+maturity  Sector/subsector   Of which exposures 
+towards companies 
+excluded from EU 
+Paris -aligned 
+Benchmarks ** Of which 
+environme
+ntally 
+sustainabl
+e (CCM)  Of which 
+Stage 2 
+exposures  Of which non -
+performing 
+exposures   Of which Stage 
+2 exposures  Of which non -
+performing 
+exposures   Of which 
+Scope 3 
+financed 
+emissions  
+TOTAL  105,184  2,779   15,871  1,171  – 1,217  – 290 – 544 5,771,627   20% 69,659  22,826  9,346  3,352  4",credit
+Landesbank,"12 
+                 
+* In accordance with the Commission Delegated Regulation EU) 2020/1818 supplementing Regulation (EU) 2016/1011 as regards min imum stand ards for EU Climate Transition Benchmarks and EU Paris -aligned Benchmarks -Climate Benchmark Standards Regulation – Recit al 6: Sectors listed in Sections A to H and Section L 
+of Annex I to Regulation (EC) No 1893/2006  
+** Of which exposures towards companie s excluded from EU Paris -aligned Benchmarks in accordance with Article 12(1) points (d) to (g) and Article 12(2) of Regulation (EU) 2020/1818  
+*** GHG emissions (column i): gross carrying amount percentage of the portfolio derived from company -specific rep orting  
+Figure 62: Banking book – Indicators of potential climate Change transition risk: Credit quality of exposures by sector, emissions and residual maturit y 
+Gross carrying amounts are reported in the maturity column (years) in  EUR  million",credit
+Landesbank,"The potential impact of the risk exposures on credit, market, operating, reputation and liqui dity risks is explained in more detail in section 3",credit
+Landesbank,"The 
+average revenue share attributable to components for combustion engines is used as the key fi gure in the motor vehicles suppliers sector (see “alignment metric” column)",revenue
+Landesbank,"32  2,371  25% revenue share attributable to components for 
+combustion engines  2022  -  
+Aviation  H51",revenue
+Landesbank,"6 Template 5: Banking book – Indicators of potential climate change physical risk: Exposures 
+subject to physical risk  
+               
+Global area subject to climate 
+change physical risk – acute and 
+chronic events  Gross carrying amount (million EUR)  
+ of which exposures sensitive to impact from climate change physical events  
+ Breakdown by maturity bucket  of which 
+expos ures 
+sensitive to 
+impact from 
+chronic 
+climate 
+change events  of which 
+exposures 
+sensitive to 
+impact from 
+acute climate 
+change events  of which 
+exposures 
+sensitive to 
+impact both 
+from chronic 
+and acute 
+climate 
+change events  Of which 
+Stage 2 
+exposures  Of which  
+non-
+performing 
+exposures  Impairment, accumulated negative 
+changes in fair value due to credit 
+risk and provisions  
+ <= 5 
+years  > 5 
+years <= 
+10 years  > 10 
+years <= 
+20 years  > 20 
+years  Average 
+weighted 
+maturity   Of which 
+Stage 2 
+exposures  Of which 
+non-
+performing 
+exposures  
+A – Agriculture, forestry and fishing  115 25 18 1  4",credit
+Landesbank,"7 Template 10 – Other climate change mitigating actions that are not covered in Regulation (EU) 
+2020/852  
+      
+Type of financial instrument  Type of counterparty  Gross carrying 
+amount (million 
+EUR)  Type of risk mitigated 
+(Climate change 
+transition risk)  Type of risk 
+mitigated (Climate 
+change physical 
+risk)  Qualitative information on the nature of the mitigating actions  
+Bonds*  
+(e",bonds
+Landesbank,"Of which Loans collateralized by 
+commercial immovable property      
+Households      
+Of which Loans collateralized by 
+residential immo vable property      
+Of which building renovation loans      
+Other counterparties      
+      
+*No information is disclosed regarding the bonds on account of current discussions regarding the distinction from European gr een bonds",bonds
+Landesbank,"Disclosure report 2022   
+135 
+List of abbreviations  
+ABCP  Asset -backed commercial paper  
+ASF Available stable funding  
+AT1 Additional Tier 1 capital  
+BaFin  Bundesanstalt für Finanzdienstleistungsaufsicht (German Federal Financial Supervisory 
+Authority)  BCBS  Basel Committee on Banking Supervision  
+CCF Credit conversion factor  
+CCM  Climate Change Mitigation  
+CCP  Central counterparty  
+CCP  Central counterparty  
+ CCR  Counterparty credit risk  
+CDS  Credit default swap  
+CET1  Common Equity Tier 1  
+CLN Credit linked note  
+Co2e  CO2 equivalents  
+COREP  Common solvency ratio reporting  
+CR Credit risk  
+CRD  Capital Requirements Directive  
+CRM  Credit risk mitigation  
+CRR  Capital Requirements Regulation  
+CRSA  Credit risk standardized approach  
+CSD  Central securities depository  
+CVA Credit valuation adjustment  
+DSGV  Deutscher Sparkassen - und Gir overband (German Savings Banks Finance Group)  
+EAD Exposure at default  
+EBA European Banking Authority  
+EEA European Economic Area  
+EEPE  Effective expected positive exposure  
+EIF European Investment Fund  
+EL Expected loss  
+EPS Energy performance score  
+ERBA External ratings -based approach  
+ESG  Environmental, social and governance  
+FBE Forborne exposure  
+FCP Funded credit protection  
+FINREP  Financial reporting  
+FX Foreign exchange  
+GHG  Greenhouse gas emissions  
+GL Guideline  
+HLBA  Historical look -back approa ch 
+ 
+ Disclosure report 2022   
+136 
+IAA Internal assessment approach  
+ICAAP  Internal capital adequacy assessment process  
+ IFRS  International Financial Reporting Standards  
+IMA Internal model approach  
+IMM Internal model method  
+IRBA  Internal ratings -based approach  
+IRC Incremental defau lt and migration risk charge  
+KWG  Kreditwesengesetz (German Banking Act)  
+LCR Liquidity coverage ratio  
+LGD Loss given default  
+MTN  Medium term notes  
+NACE  Nomenclature  Générale des Activités Économiques  
+NFRD  Non-Financial Reporting Directive  
+NII Net int erest income  
+NMD  Non-maturity deposits  
+NPL Non-performing loans  
+NSFR  Net stable funding ratio  
+O-SII Other systemically important institutions  
+OTC  Over the counter  
+P/L Profit and loss  
+PD Probability of default  
+PFE Potential future exposure  
+RC Repla cement cost  
+RSF Required stable funding  
+RWA  Risk-weighted assets  
+RWEA  Risk-weighted exposure amount  
+SA-CCR  Standardized approach for counterparty credit risk  
+SASB  Sustainability Accounting Standards Board  
+SFT Securities financing transaction  
+SME  Small and medium -sized enterprises  
+SREP  Supervisory review and evaluation process  
+SRT Significant risk transfer  
+STS Simple, transparent and standardized securitizations  
+sVaR  Stressed value -at-risk 
+sVaRavg  Average stressed value -at-risk 
+T1 / T2  Tier 1 ca pital / Tier 2 capital  
+TC Total capital  
+TLTRO  Targeted longer -term refinancing operations  
+VaR Value -at-risk 
+VdP Verband deutscher Pfandbriefbanken (Association of German Pfandbrief Banks)  
+VÖB  Bundesverband Öffentlicher Banken Deutschlands (Association  of German Public Banks)  
+   
+ 
+ Disclosure report 2022   
+137 
+Index of tables  
+Figure 1: EU KM1 - Key metrics template  ",profit
+Landesbank,"7 
+Figure 3: EU LI1 – Differences between accounting and regulatory scopes of consolidation and mapping of financial statement categories 
+with regulatory risk categori es ",regulatory
+Landesbank,"21 
+Figure 4: EU LI 2 – Main sources of differences between regulatory exposure amounts and carrying values in financial statements  ",regulatory
+Landesbank,"24 
+Figure 7: EU CC 1 – Composition of regulatory own funds  ",funds
+Landesbank,"28 
+Figure 8: EU CC 2 – Reconciliation of regulatory own funds to balance sheet  in the audited financial statements  ",funds
+Landesbank,"29 
+Figure 9: Comparison of own funds and capital and leverage ratio applying and not applying  ",funds
+Landesbank,"30 
+Figure 10: EU CCyB 1 – Geographical distribution of credit exposures relevant for the calculation of the countercyclical buffer  ",credit
+Landesbank,"57 
+Figure 20: EU CR 2 – Changes in the stock of non -performing loans and adv ances  ",stock
+Landesbank,"57 
+Figure 21: EU CQ 1 – Credit quality of forborne exposures  ",credit
+Landesbank,"58 
+Figure 22: EU CQ 3 – Credit quality of performing and non -performing exposures by past due days  ",credit
+Landesbank,"60 
+Figure 24: EU CQ 5 – Credit quality of loans and advances to non -financial corporations by industry  ",credit
+Landesbank,"61 
+Figure 25: EU CR 3 – CRM techniques overview: Disclosure of the use of credit risk mitigation techniques ",credit
+Landesbank,"64 
+Figure 26: EU CR 4 – standardized approach – Credit risk exposure and CRM effects  ",credit
+Landesbank,"74 
+Figure 29: EU CR 6-B – IRB approach – Credit risk expos ures by exposure class and PD range  ",credit
+Landesbank,"76 
+Figure 30: EU CR 7: IRB approach – Effect on the risk -weighted exposure amounts of credit derivatives used as CRM techniques  ",credit
+Landesbank,"77 
+Figure 31: EU CR 7-A – IRB approach – Disclosure of the extent of the use of credit risk mitigation techniques  ",credit
+Landesbank,"78 
+Figure 32: EU CR 8 – RWEA flow statements of credit risk exposures under the IRB approach  ",credit
+Landesbank,5  – Equity exposures under the simple risk -weighted approach  ,equity
+Landesbank,"87 
+Figure 39: EU CCR 2 – Transactions subject to own funds requirements for CVA risk  ",funds
+Landesbank,"88 
+Figure 40: EU CCR 3 – Standardized approach – CCR exposures by regulatory exposure class and risk weights  ",regulatory
+Landesbank,"90 
+Figure 43: EU CCR6 – Credit derivatives exposures  ",credit
+Landesbank,"97 
+Figure 46: EU -SEC3 – Securitization exposures in the non -trading book and associate d regulatory capital requirements – institution acting 
+as originator or as sponsor  ",regulatory
+Landesbank,"98 
+Figure 47: EU -SEC4 – Securitization exposures in the non -trading book and associated regulatory capital req uirements – institution acting 
+as investor  ",regulatory
+Landesbank,"99 
+Figure 48: EU-SEC5 – Exposures securitized by the institution – Exposures in default and specific credit risk adjustments  ",credit
+Landesbank,"106 
+Figure 53: EU MR 4 – Comparison of VaR estimates with gains/losses ( 1) ",loss
+Landesbank,"107 
+Figure 54: EU MR 4 – Comparison of VaR estimates  with gains/losses ( 2) ",loss
+Landesbank,"108 
+Figure 55: EU OR 1 – Operational risk own funds requirements and risk -weighted exposure amounts  ",funds
+Landesbank,"112 
+Figure 59: EU IRRBB 1 – Interest rate risks of non -trading book activities  ",interest
+Landesbank,"118 
+Figure 62: Banking book – Indicators of potential  climate Change transition risk: Credit quality of exposures by sector, emissions and 
+residual maturity  ",credit
