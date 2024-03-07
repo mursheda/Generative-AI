@@ -2,15 +2,12 @@ import pandas as pd
 import re
 import os
 
-# Load the CSV file
 extracted_csv_file_path = '2.Financial_pdf_to_csv'  
 cleaned_csv_file_path = '3.Financial_extractedCsv_to_cleanedCsv' 
 
-# Ensure the cleaned CSV output directory exists
 if not os.path.exists(cleaned_csv_file_path):
     os.makedirs(cleaned_csv_file_path)
 
-# Function to clean a DataFrame
 def clean_dataframe(df):
     # Remove rows with any missing values
     df_cleaned = df.dropna()
@@ -41,30 +38,24 @@ def clean_dataframe(df):
     return df_cleaned
 
 
-# Iterate over CSV files in the specified directory, clean, and save them
 for csv_file in os.listdir(extracted_csv_file_path):
     if csv_file.endswith('.csv'):
         csv_file_path = os.path.join(extracted_csv_file_path, csv_file)
         cleaned_csv_file = os.path.join(cleaned_csv_file_path, f"{csv_file}")
 
-        # Read the CSV into a DataFrame
         df = pd.read_csv(csv_file_path)
 
-        # Initial data inspection
         print(f"Processing: {csv_file}")
         print("Initial shape:", df.shape)
         print("Initial preview:")
         print(df.head())
 
-        # Clean the DataFrame
         df_cleaned = clean_dataframe(df)
 
-        # Final data inspection
         print("Final shape:", df_cleaned.shape)
         print("Final preview:")
         print(df_cleaned.head())
 
-        # Save the cleaned DataFrame back to a new CSV file
         df_cleaned.to_csv(cleaned_csv_file, index=False)
 
         print(f"Cleaned data saved to {cleaned_csv_file}\n")
